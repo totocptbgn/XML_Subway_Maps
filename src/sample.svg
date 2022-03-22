@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg  xmlns="http://www.w3.org/2000/svg"
+      height="450" width="940" version="1.0"
+      xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <!-- l'ordre d'affichage est celui de l'écriture : si deux éléments
+       se recouvrent, le dernier affiché recouvrera le premier affiché
+       
+       stroke="green"          : couleur du tracé
+       stroke-width="20"       : largeur du tracé
+       stroke-linecap="round"  : arrondir les extrémités
+       fill="white"            : couleur de remplissage
+  -->
+  
+  <!-- exemples de lignes (de (x1, y1) vers (x2, y2) et de cercles
+       (centre en (cx, cy), rayon r)
+  -->
+  <line x1="20" y1="200" x2="300" y2="100"
+        stroke="black" stroke-width="30" stroke-linecap="round"/>
+  <line x1="610" y1="200" x2="300" y2="100"
+        stroke="black" stroke-width="30" stroke-linecap="round"/>  
+  <circle cx="300" cy="100" r="30"
+          fill="green" stroke="black" stroke-width="5"/>
+  <line x1="20" y1="200" x2="300" y2="100"
+        stroke="green" stroke-width="20" stroke-linecap="round"/>
+  <line x1="610" y1="200" x2="300" y2="100"
+        stroke="green" stroke-width="20" stroke-linecap="round"/>  
+  <circle cx="400" cy="100" r="50"
+          fill="white" stroke="black" stroke-width="10"/>
+
+  <!-- exemple de texte -->
+  <text x="300" y="280"
+        font-family="serif" font-weight="bold" font-size="64" fill="blue">
+    Hello, world!
+  </text>
+
+  <!-- exemple de texte avec placement en 100, 400 et rotation de -45 degrés -->
+  <text transform="translate (100, 400) rotate(-45)"
+	font-family="Verdana" font-size="32" fill="green">
+    Hello, world!
+  </text>
+
+  <!-- exemple de path : L pour "line" (tracer), M pour "move" (déplacer) 
+       stroke-linejoin="round" : virages arrondis
+       fill="none"             : pas de remplissage
+  -->
+  <path stroke="purple"
+	stroke-width="20"
+	stroke-linecap="round"
+	stroke-linejoin="round"
+	fill="none"
+	d="M 300 400 L 400 200 L 500 200 M 300 400 L 400 400 M 300 400 L 500 300"/>
+  
+</svg>
