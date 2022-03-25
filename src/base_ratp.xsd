@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
+    
+    <xsd:annotation>
+        <xsd:documentation xml:lang="fr">
+            Schéma XML pour le format XML de représentation du métro parisien.
+        </xsd:documentation>
+    </xsd:annotation>
+
+    <xsd:complexType name="Path">
+        <xsd:sequence>
+            <xsd:element name="station"  minOccurs="1" maxOccurs="unbounded">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="name" type="xsd:string"/>
+                        <xsd:element name="desc" type="xsd:string"/>
+                        <xsd:element name="changes" minOccurs="0">
+                            <xsd:complexType>
+                                <xsd:sequence>
+                                    <xsd:element name="changeline" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
+                                </xsd:sequence>
+                            </xsd:complexType>
+                        </xsd:element>
+                    </xsd:sequence>
+                    <xsd:attribute name="id" type="xsd:positiveInteger" use="required"/>
+                    <xsd:attribute name="lat" type="xsd:double" use="required"/>
+                    <xsd:attribute name="lon" type="xsd:double" use="required"/>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="Bifur">
+        <xsd:sequence>
+            <xsd:element name="subpath" type="Path" minOccurs="2" maxOccurs="2"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:element name="root">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="line" maxOccurs="unbounded">
+                    <xsd:complexType>                        
+                        <xsd:sequence>
+                            <xsd:element name="path" type="Path"/>
+                            <xsd:element name="bifur" type="Bifur" minOccurs="0"/>
+                            <xsd:element name="path" type="Path" minOccurs="0"/>
+                        </xsd:sequence>
+                        <xsd:attribute name="name" type="xsd:string" use="required"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
