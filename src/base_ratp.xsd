@@ -7,13 +7,22 @@
         </xsd:documentation>
     </xsd:annotation>
 
+    <xsd:complexType name="Station">
+       <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="desc" type="xsd:string"/>
+        </xsd:sequence>
+        <xsd:attribute name="id" type="xsd:positiveInteger" use="required"/>
+        <xsd:attribute name="lat" type="xsd:double" use="required"/>
+        <xsd:attribute name="lon" type="xsd:double" use="required"/>
+    </xsd:complexType>
+
     <xsd:complexType name="Path">
         <xsd:sequence>
-            <xsd:element name="station"  minOccurs="1" maxOccurs="unbounded">
+            <xsd:element name="station" minOccurs="1" maxOccurs="unbounded">
                 <xsd:complexType>
                     <xsd:sequence>
-                        <xsd:element name="name" type="xsd:string"/>
-                        <xsd:element name="desc" type="xsd:string"/>
+                        <xsd:element name="id" type="xsd:positiveInteger"/>
                         <xsd:element name="changes" minOccurs="0">
                             <xsd:complexType>
                                 <xsd:sequence>
@@ -22,9 +31,6 @@
                             </xsd:complexType>
                         </xsd:element>
                     </xsd:sequence>
-                    <xsd:attribute name="id" type="xsd:positiveInteger" use="required"/>
-                    <xsd:attribute name="lat" type="xsd:double" use="required"/>
-                    <xsd:attribute name="lon" type="xsd:double" use="required"/>
                 </xsd:complexType>
             </xsd:element>
         </xsd:sequence>
@@ -39,23 +45,36 @@
     <xsd:element name="root">
         <xsd:complexType>
             <xsd:sequence>
-                <xsd:element name="line" maxOccurs="unbounded">
-                    <xsd:complexType>                        
-                        <xsd:choice>
-                            <xsd:sequence>
-                                <xsd:element name="mpath" type="Path"/>
-                            </xsd:sequence>
-                             <xsd:sequence>
-                                <xsd:element name="lpath" type="Path"/>
-                                <xsd:element name="bifur" type="Bifur"/>
-                                <xsd:element name="rpath" type="Path"/>
-                            </xsd:sequence>
-                             <xsd:sequence>
-                                <xsd:element name="fpath" type="Path"/>
-                                <xsd:element name="bifur" type="Bifur"/>
-                            </xsd:sequence>
-                        </xsd:choice>
-                        <xsd:attribute name="name" type="xsd:string" use="required"/>
+                <xsd:element name="data">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="station" type="Station" maxOccurs="unbounded"/>
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="lines">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="line" maxOccurs="unbounded">
+                                <xsd:complexType>                        
+                                    <xsd:choice>
+                                        <xsd:sequence>
+                                            <xsd:element name="mpath" type="Path"/>
+                                        </xsd:sequence>
+                                        <xsd:sequence>
+                                            <xsd:element name="lpath" type="Path"/>
+                                            <xsd:element name="bifur" type="Bifur"/>
+                                            <xsd:element name="rpath" type="Path"/>
+                                        </xsd:sequence>
+                                        <xsd:sequence>
+                                            <xsd:element name="fpath" type="Path"/>
+                                            <xsd:element name="bifur" type="Bifur"/>
+                                        </xsd:sequence>
+                                    </xsd:choice>
+                                    <xsd:attribute name="name" type="xsd:string" use="required"/>
+                                </xsd:complexType>
+                            </xsd:element>
+                        </xsd:sequence>
                     </xsd:complexType>
                 </xsd:element>
             </xsd:sequence>
