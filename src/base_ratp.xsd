@@ -41,11 +41,20 @@
             <xsd:sequence>
                 <xsd:element name="line" maxOccurs="unbounded">
                     <xsd:complexType>                        
-                        <xsd:sequence>
-                            <xsd:element name="path" type="Path"/>
-                            <xsd:element name="bifur" type="Bifur" minOccurs="0"/>
-                            <xsd:element name="path" type="Path" minOccurs="0"/>
-                        </xsd:sequence>
+                        <xsd:choice>
+                            <xsd:sequence>
+                                <xsd:element name="mpath" type="Path"/>
+                            </xsd:sequence>
+                             <xsd:sequence>
+                                <xsd:element name="lpath" type="Path"/>
+                                <xsd:element name="bifur" type="Bifur"/>
+                                <xsd:element name="rpath" type="Path"/>
+                            </xsd:sequence>
+                             <xsd:sequence>
+                                <xsd:element name="fpath" type="Path"/>
+                                <xsd:element name="bifur" type="Bifur"/>
+                            </xsd:sequence>
+                        </xsd:choice>
                         <xsd:attribute name="name" type="xsd:string" use="required"/>
                     </xsd:complexType>
                 </xsd:element>
