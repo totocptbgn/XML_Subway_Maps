@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <root>
    <line name="2">
-      <path>
+      <mpath>
          <station id="2716" lat="48.8490101536482" lon="2.39766461279101">
             <name>Nation</name>
             <desc>Terre-plein face au 3 place de la Nation - 75112</desc>
             <changes>
-               <changeline>1</changeline>
-               <changeline>9</changeline>
                <changeline>6</changeline>
+               <changeline>9</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
          <station id="2052" lat="48.8511938192133" lon="2.39823914082312">
@@ -125,8 +125,8 @@
             <name>Charles de Gaulle-Etoile</name>
             <desc>Place Charles de Gaulle - 75108</desc>
             <changes>
-               <changeline>1</changeline>
                <changeline>6</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
          <station id="3180" lat="48.8698649124841" lon="2.28522620725044">
@@ -137,10 +137,10 @@
             <name>Porte Dauphine Maréchal de Lattre de Tassigny</name>
             <desc>Boulevard Amiral Bruix - 75116</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="1">
-      <path>
+      <mpath>
          <station id="2212" lat="48.8443251443686" lon="2.44055234621182">
             <name>Château de Vincennes</name>
             <desc>Gare routière - 94080</desc>
@@ -161,9 +161,9 @@
             <name>Nation</name>
             <desc>Terre-plein face au 3 place de la Nation - 75112</desc>
             <changes>
-               <changeline>9</changeline>
                <changeline>6</changeline>
                <changeline>2</changeline>
+               <changeline>9</changeline>
             </changes>
          </station>
          <station id="2988" lat="48.8473528769588" lon="2.38584254004024">
@@ -203,10 +203,10 @@
             <name>Châtelet</name>
             <desc>Théâtre du Châtelet - 75101</desc>
             <changes>
-               <changeline>7</changeline>
-               <changeline>4</changeline>
                <changeline>14</changeline>
                <changeline>11</changeline>
+               <changeline>7</changeline>
+               <changeline>4</changeline>
             </changes>
          </station>
          <station id="2592" lat="48.8608798575938" lon="2.3409732758179">
@@ -282,10 +282,10 @@
             <name>La Défense Grande Arche</name>
             <desc>Carpeaux rue. gare du RER La Défense - 92062</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="3">
-      <path>
+      <mpath>
          <station id="2408" lat="48.8632625265005" lon="2.41597536849996">
             <name>Gallieni Parc de Bagnolet</name>
             <desc>Gare routière - 93006</desc>
@@ -321,8 +321,8 @@
             <desc>Av de la République - 75111</desc>
             <changes>
                <changeline>8</changeline>
-               <changeline>5</changeline>
                <changeline>11</changeline>
+               <changeline>5</changeline>
                <changeline>9</changeline>
             </changes>
          </station>
@@ -375,9 +375,9 @@
             <name>Saint-Lazare</name>
             <desc>Rue de l' Arcade - 75108</desc>
             <changes>
-               <changeline>14</changeline>
-               <changeline>13</changeline>
                <changeline>12</changeline>
+               <changeline>13</changeline>
+               <changeline>14</changeline>
             </changes>
          </station>
          <station id="2364" lat="48.8790604392127" lon="2.32297463240589">
@@ -419,10 +419,10 @@
             <name>Pont de Levallois-Bécon</name>
             <desc>Rue Baudin - 92044</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="3B">
-      <path>
+      <mpath>
          <station id="2928" lat="48.8769382235089" lon="2.40637656692978">
             <name>Porte des Lilas</name>
             <desc>Rue de Belleville - 75120</desc>
@@ -445,10 +445,10 @@
                <changeline>3</changeline>
             </changes>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="4">
-      <path>
+      <mpath>
          <station id="2888" lat="48.8979701704072" lon="2.34398838343329">
             <name>Porte de Clignancourt</name>
             <desc>Rue Belliard - 75118</desc>
@@ -486,8 +486,8 @@
             <name>Gare de l'Est Verdun</name>
             <desc>Sortie - 75110</desc>
             <changes>
-               <changeline>5</changeline>
                <changeline>7</changeline>
+               <changeline>5</changeline>
             </changes>
          </station>
          <station id="2208" lat="48.8724541509199" lon="2.35605616813029">
@@ -521,10 +521,10 @@
             <name>Châtelet</name>
             <desc>Théâtre du Châtelet - 75101</desc>
             <changes>
-               <changeline>7</changeline>
                <changeline>14</changeline>
                <changeline>11</changeline>
                <changeline>1</changeline>
+               <changeline>7</changeline>
             </changes>
          </station>
          <station id="2244" lat="48.8556848502863" lon="2.34620292952872">
@@ -559,8 +559,8 @@
             <desc>Raoul Dautry place. SNCF Montparnasse - 75114</desc>
             <changes>
                <changeline>13</changeline>
-               <changeline>6</changeline>
                <changeline>12</changeline>
+               <changeline>6</changeline>
             </changes>
          </station>
          <station id="3176" lat="48.8420598575821" lon="2.32886705043721">
@@ -597,10 +597,10 @@
             <name>Mairie de Montrouge</name>
             <desc>Rue Louis Rolland - 92049</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="5">
-      <path>
+      <mpath>
          <station id="2104" lat="48.9071473125516" lon="2.44945750453114">
             <name>Bobigny-Pablo-Picasso</name>
             <desc>Préfecture Trésorerie - 93008</desc>
@@ -633,8 +633,8 @@
             <name>Jaurès</name>
             <desc>Face au 2 place de Stalingrad - 75119</desc>
             <changes>
-               <changeline>7B</changeline>
                <changeline>2</changeline>
+               <changeline>7B</changeline>
             </changes>
          </station>
          <station id="3124" lat="48.8841892942088" lon="2.36703044197457">
@@ -656,8 +656,8 @@
             <name>Gare de l'Est Verdun</name>
             <desc>Sortie - 75110</desc>
             <changes>
-               <changeline>4</changeline>
                <changeline>7</changeline>
+               <changeline>4</changeline>
             </changes>
          </station>
          <station id="2476" lat="48.8707008232696" lon="2.36057863558728">
@@ -669,8 +669,8 @@
             <desc>Av de la République - 75111</desc>
             <changes>
                <changeline>8</changeline>
-               <changeline>3</changeline>
                <changeline>11</changeline>
+               <changeline>3</changeline>
                <changeline>9</changeline>
             </changes>
          </station>
@@ -693,8 +693,8 @@
             <name>Bastille</name>
             <desc>Rue de la Roquette - 75104</desc>
             <changes>
-               <changeline>1</changeline>
                <changeline>8</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
          <station id="2956" lat="48.8459660324065" lon="2.36691317973831">
@@ -724,17 +724,17 @@
                <changeline>6</changeline>
             </changes>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="6">
-      <path>
+      <mpath>
          <station id="2716" lat="48.8490101536482" lon="2.39766461279101">
             <name>Nation</name>
             <desc>Terre-plein face au 3 place de la Nation - 75112</desc>
             <changes>
-               <changeline>1</changeline>
-               <changeline>9</changeline>
                <changeline>2</changeline>
+               <changeline>9</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
          <station id="2788" lat="48.8453231146139" lon="2.40178631376069">
@@ -817,8 +817,8 @@
             <name>Montparnasse-Bienvenue</name>
             <desc>Raoul Dautry place. SNCF Montparnasse - 75114</desc>
             <changes>
-               <changeline>13</changeline>
                <changeline>4</changeline>
+               <changeline>13</changeline>
                <changeline>12</changeline>
             </changes>
          </station>
@@ -841,8 +841,8 @@
             <name>La Motte-Picquet-Grenelle</name>
             <desc>Face au 130-113 boulevard de Grenelle - 75115</desc>
             <changes>
-               <changeline>8</changeline>
                <changeline>10</changeline>
+               <changeline>8</changeline>
             </changes>
          </station>
          <station id="2328" lat="48.8503925783197" lon="2.29364833623054">
@@ -876,14 +876,14 @@
             <name>Charles de Gaulle-Etoile</name>
             <desc>Place Charles de Gaulle - 75108</desc>
             <changes>
-               <changeline>1</changeline>
                <changeline>2</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="7">
-      <path>
+      <fpath>
          <station id="2512" lat="48.9205145066857" lon="2.4102257791202">
             <name>La Courneuve-8-Mai-1945</name>
             <desc>Place du 8 Mai 1945 - 93027</desc>
@@ -916,8 +916,8 @@
             <name>Stalingrad</name>
             <desc>Bassin de la Villette - 75119</desc>
             <changes>
-               <changeline>5</changeline>
                <changeline>2</changeline>
+               <changeline>5</changeline>
             </changes>
          </station>
          <station id="2580" lat="48.8809004281511" lon="2.36510721826434">
@@ -935,8 +935,8 @@
             <name>Gare de l'Est Verdun</name>
             <desc>Sortie - 75110</desc>
             <changes>
-               <changeline>5</changeline>
                <changeline>4</changeline>
+               <changeline>5</changeline>
             </changes>
          </station>
          <station id="2824" lat="48.877353095288" lon="2.3493814239526">
@@ -988,10 +988,10 @@
             <name>Châtelet</name>
             <desc>Théâtre du Châtelet - 75101</desc>
             <changes>
-               <changeline>4</changeline>
                <changeline>14</changeline>
                <changeline>11</changeline>
                <changeline>1</changeline>
+               <changeline>4</changeline>
             </changes>
          </station>
          <station id="2840" lat="48.8534635856948" lon="2.35738397280916">
@@ -1025,8 +1025,8 @@
             <name>Place d'Italie</name>
             <desc>Place d' Italie - 75113</desc>
             <changes>
-               <changeline>5</changeline>
                <changeline>6</changeline>
+               <changeline>5</changeline>
             </changes>
          </station>
          <station id="3148" lat="48.8261594539114" lon="2.35701946618913">
@@ -1037,7 +1037,7 @@
             <name>Maison Blanche</name>
             <desc>144 avenue d' Italie - 75113</desc>
          </station>
-      </path>
+      </fpath>
       <bifur>
          <subpath>
             <station id="2544" lat="48.8103851251295" lon="2.36183068309113">
@@ -1082,12 +1082,12 @@
       </bifur>
    </line>
    <line name="7B">
-      <path>
+      <lpath>
          <station id="2940" lat="48.8801599321124" lon="2.39858662186977">
             <name>Pré-Saint-Gervais</name>
             <desc>Serrurier 52 boulevard - 75119</desc>
          </station>
-      </path>
+      </lpath>
       <bifur>
          <subpath>
             <station id="2312" lat="48.8819510181782" lon="2.39326067585739">
@@ -1105,7 +1105,7 @@
             </station>
          </subpath>
       </bifur>
-      <path>
+      <rpath>
          <station id="2124" lat="48.8796070889331" lon="2.38941556965321">
             <name>Botzaris</name>
             <desc>80 rue Botzaris - 75119</desc>
@@ -1122,8 +1122,8 @@
             <name>Jaurès</name>
             <desc>Face au 2 place de Stalingrad - 75119</desc>
             <changes>
-               <changeline>5</changeline>
                <changeline>2</changeline>
+               <changeline>5</changeline>
             </changes>
          </station>
          <station id="2580" lat="48.8809004281511" lon="2.36510721826434">
@@ -1133,10 +1133,10 @@
                <changeline>7</changeline>
             </changes>
          </station>
-      </path>
+      </rpath>
    </line>
    <line name="8">
-      <path>
+      <mpath>
          <station id="2056" lat="48.836814988806" lon="2.27868334645027">
             <name>Balard</name>
             <desc>Rue Louis Armand - 75115</desc>
@@ -1192,8 +1192,8 @@
             <name>Madeleine</name>
             <desc>Rue De Sèze - 75108</desc>
             <changes>
-               <changeline>14</changeline>
                <changeline>12</changeline>
+               <changeline>14</changeline>
             </changes>
          </station>
          <station id="2744" lat="48.8705592165449" lon="2.33255448204959">
@@ -1237,9 +1237,9 @@
             <name>République</name>
             <desc>Av de la République - 75111</desc>
             <changes>
-               <changeline>3</changeline>
-               <changeline>5</changeline>
                <changeline>11</changeline>
+               <changeline>5</changeline>
+               <changeline>3</changeline>
                <changeline>9</changeline>
             </changes>
          </station>
@@ -1337,10 +1337,10 @@
             <name>Pointe du Lac</name>
             <desc>avenue François Mitterrand - 94028</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="9">
-      <path>
+      <mpath>
          <station id="2836" lat="48.8296903380227" lon="2.23052843419233">
             <name>Pont de Sèvres</name>
             <desc>quai Alphonse Le Gallo - 92012</desc>
@@ -1467,8 +1467,8 @@
             <name>Strasbourg-Saint-Denis</name>
             <desc>Porte Saint-Martin - 75102</desc>
             <changes>
-               <changeline>8</changeline>
                <changeline>4</changeline>
+               <changeline>8</changeline>
             </changes>
          </station>
          <station id="2984" lat="48.8674108288354" lon="2.36358782555805">
@@ -1476,9 +1476,9 @@
             <desc>Av de la République - 75111</desc>
             <changes>
                <changeline>8</changeline>
-               <changeline>3</changeline>
-               <changeline>5</changeline>
                <changeline>11</changeline>
+               <changeline>5</changeline>
+               <changeline>3</changeline>
             </changes>
          </station>
          <station id="2732" lat="48.8649653032625" lon="2.36763240629875">
@@ -1508,9 +1508,9 @@
             <name>Nation</name>
             <desc>Terre-plein face au 3 place de la Nation - 75112</desc>
             <changes>
-               <changeline>1</changeline>
                <changeline>6</changeline>
                <changeline>2</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
          <station id="2156" lat="48.8517674745052" lon="2.40118148387264">
@@ -1537,10 +1537,10 @@
             <name>Mairie de Montreuil</name>
             <desc>Place Jean Jaurès - 93048</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="10">
-      <path>
+      <lpath>
          <station id="2132" lat="48.840680163122" lon="2.22831366172434">
             <name>Boulogne Pont de Saint-Cloud</name>
             <desc>Musée Albert Kahn - 92012</desc>
@@ -1549,7 +1549,7 @@
             <name>Boulogne-Jean-Jaurès</name>
             <desc>Rue du Chateau - 92012</desc>
          </station>
-      </path>
+      </lpath>
       <bifur>
          <subpath>
             <station id="2688" lat="48.845056129032" lon="2.26191142327977">
@@ -1586,7 +1586,7 @@
             </station>
          </subpath>
       </bifur>
-      <path>
+      <rpath>
          <station id="2488" lat="48.8459638804841" lon="2.27781512635377">
             <name>Javel-André-Citroen</name>
             <desc>Rue de la Convention - 75115</desc>
@@ -1603,8 +1603,8 @@
             <name>La Motte-Picquet-Grenelle</name>
             <desc>Face au 130-113 boulevard de Grenelle - 75115</desc>
             <changes>
-               <changeline>8</changeline>
                <changeline>6</changeline>
+               <changeline>8</changeline>
             </changes>
          </station>
          <station id="3100" lat="48.8468647020692" lon="2.30726884757893">
@@ -1666,10 +1666,10 @@
                <changeline>5</changeline>
             </changes>
          </station>
-      </path>
+      </rpath>
    </line>
    <line name="11">
-      <path>
+      <mpath>
          <station id="2628" lat="48.8800510617727" lon="2.41566020606423">
             <name>Mairie des Lilas</name>
             <desc>Place du Colonel Fabien - 93045</desc>
@@ -1716,8 +1716,8 @@
             <desc>Av de la République - 75111</desc>
             <changes>
                <changeline>8</changeline>
-               <changeline>3</changeline>
                <changeline>5</changeline>
+               <changeline>3</changeline>
                <changeline>9</changeline>
             </changes>
          </station>
@@ -1743,16 +1743,16 @@
             <name>Châtelet</name>
             <desc>Théâtre du Châtelet - 75101</desc>
             <changes>
-               <changeline>7</changeline>
-               <changeline>4</changeline>
                <changeline>14</changeline>
                <changeline>1</changeline>
+               <changeline>7</changeline>
+               <changeline>4</changeline>
             </changes>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="12">
-      <path>
+      <mpath>
          <station id="2604" lat="48.8243465260184" lon="2.27356582960065">
             <name>Mairie d'Issy</name>
             <desc>Rue du Général Leclerc - 92040</desc>
@@ -1792,8 +1792,8 @@
             <name>Montparnasse-Bienvenue</name>
             <desc>Raoul Dautry place. SNCF Montparnasse - 75114</desc>
             <changes>
-               <changeline>13</changeline>
                <changeline>4</changeline>
+               <changeline>13</changeline>
                <changeline>6</changeline>
             </changes>
          </station>
@@ -1828,16 +1828,16 @@
             <name>Concorde</name>
             <desc>Place de la Concorde - 75108</desc>
             <changes>
-               <changeline>1</changeline>
                <changeline>8</changeline>
+               <changeline>1</changeline>
             </changes>
          </station>
          <station id="2600" lat="48.8697947152178" lon="2.32461201202227">
             <name>Madeleine</name>
             <desc>Rue De Sèze - 75108</desc>
             <changes>
-               <changeline>14</changeline>
                <changeline>8</changeline>
+               <changeline>14</changeline>
             </changes>
          </station>
          <station id="3064" lat="48.8760678143526" lon="2.32418810077101">
@@ -1845,8 +1845,8 @@
             <desc>Rue de l' Arcade - 75108</desc>
             <changes>
                <changeline>3</changeline>
-               <changeline>14</changeline>
                <changeline>13</changeline>
+               <changeline>14</changeline>
             </changes>
          </station>
          <station id="3152" lat="48.8763290374387" lon="2.3318045685106">
@@ -1899,10 +1899,10 @@
             <name>Front Populaire</name>
             <desc>Place du Front Populaire - 93001</desc>
          </station>
-      </path>
+      </mpath>
    </line>
    <line name="13">
-      <path>
+      <fpath>
          <station id="2228" lat="48.8102833635108" lon="2.30128887097595">
             <name>Châtillon Montrouge</name>
             <desc>r. de l'Avenir - 92020</desc>
@@ -1936,8 +1936,8 @@
             <desc>Raoul Dautry place. SNCF Montparnasse - 75114</desc>
             <changes>
                <changeline>4</changeline>
-               <changeline>6</changeline>
                <changeline>12</changeline>
+               <changeline>6</changeline>
             </changes>
          </station>
          <station id="2332" lat="48.8469925009228" lon="2.31654234477023">
@@ -1980,9 +1980,9 @@
             <name>Saint-Lazare</name>
             <desc>Rue de l' Arcade - 75108</desc>
             <changes>
+               <changeline>12</changeline>
                <changeline>3</changeline>
                <changeline>14</changeline>
-               <changeline>12</changeline>
             </changes>
          </station>
          <station id="2576" lat="48.8795371663808" lon="2.32685794727296">
@@ -2000,7 +2000,7 @@
             <name>La Fourche</name>
             <desc>Avenue de Clichy - 75117</desc>
          </station>
-      </path>
+      </fpath>
       <bifur>
          <subpath>
             <station id="2148" lat="48.8906266330241" lon="2.32019112127533">
@@ -2065,22 +2065,22 @@
       </bifur>
    </line>
    <line name="14">
-      <path>
+      <mpath>
          <station id="3064" lat="48.8760678143526" lon="2.32418810077101">
             <name>Saint-Lazare</name>
             <desc>Rue de l' Arcade - 75108</desc>
             <changes>
+               <changeline>12</changeline>
                <changeline>3</changeline>
                <changeline>13</changeline>
-               <changeline>12</changeline>
             </changes>
          </station>
          <station id="2600" lat="48.8697947152178" lon="2.32461201202227">
             <name>Madeleine</name>
             <desc>Rue De Sèze - 75108</desc>
             <changes>
-               <changeline>8</changeline>
                <changeline>12</changeline>
+               <changeline>8</changeline>
             </changes>
          </station>
          <station id="2944" lat="48.8664969870386" lon="2.3340942152591">
@@ -2094,10 +2094,10 @@
             <name>Châtelet</name>
             <desc>Théâtre du Châtelet - 75101</desc>
             <changes>
-               <changeline>7</changeline>
-               <changeline>4</changeline>
                <changeline>11</changeline>
                <changeline>1</changeline>
+               <changeline>7</changeline>
+               <changeline>4</changeline>
             </changes>
          </station>
          <station id="2424" lat="48.8446521509829" lon="2.37310814754528">
@@ -2126,6 +2126,6 @@
             <name>Olympiades</name>
             <desc>Rue de Tolbiac - 75113</desc>
          </station>
-      </path>
+      </mpath>
    </line>
 </root>
