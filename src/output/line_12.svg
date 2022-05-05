@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="7000" height="1080">
+   <g transform="translate(500,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Mairie d'Issy</tspan></text>
+   </g>
+   <g transform="translate(600,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Corentin-Celton</tspan></text>
+   </g>
+   <g transform="translate(700,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Porte de Versailles</tspan></text>
+   </g>
+   <g transform="translate(800,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Convention</tspan></text>
+   </g>
+   <g transform="translate(900,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Vaugirard Adolphe Chérioux</tspan></text>
+   </g>
+   <g transform="translate(1000,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Volontaires</tspan></text>
+   </g>
+   <g transform="translate(1100,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">6</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Pasteur</tspan></text>
+   </g>
+   <g transform="translate(1200,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Falguière</tspan></text>
+   </g>
+   <g transform="translate(1300,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">6</text>
+      <circle cx="0"
+              cy="80"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="80"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">13</text>
+      <circle cx="0"
+              cy="120"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="120"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">4</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Montparnasse-Bienvenue</tspan></text>
+   </g>
+   <g transform="translate(1400,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Notre-Dame des Champs</tspan></text>
+   </g>
+   <g transform="translate(1500,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Rennes</tspan></text>
+   </g>
+   <g transform="translate(1600,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">10</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Sèvres-Babylone</tspan></text>
+   </g>
+   <g transform="translate(1700,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Rue du Bac</tspan></text>
+   </g>
+   <g transform="translate(1800,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Solférino</tspan></text>
+   </g>
+   <g transform="translate(1900,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Assemblée Nationale</tspan></text>
+   </g>
+   <g transform="translate(2000,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">1</text>
+      <circle cx="0"
+              cy="80"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="80"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">8</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Concorde</tspan></text>
+   </g>
+   <g transform="translate(2100,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">14</text>
+      <circle cx="0"
+              cy="80"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="80"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">8</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Madeleine</tspan></text>
+   </g>
+   <g transform="translate(2200,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">3</text>
+      <circle cx="0"
+              cy="80"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="80"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">13</text>
+      <circle cx="0"
+              cy="120"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="120"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">14</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Saint-Lazare</tspan></text>
+   </g>
+   <g transform="translate(2300,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Trinité-d'Estienne d'Orves</tspan></text>
+   </g>
+   <g transform="translate(2400,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Notre-Dame de Lorette</tspan></text>
+   </g>
+   <g transform="translate(2500,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Saint-Georges</tspan></text>
+   </g>
+   <g transform="translate(2600,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">2</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Pigalle</tspan></text>
+   </g>
+   <g transform="translate(2700,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Abbesses</tspan></text>
+   </g>
+   <g transform="translate(2800,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Lamarck-Caulaincourt</tspan></text>
+   </g>
+   <g transform="translate(2900,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Jules Joffrin</tspan></text>
+   </g>
+   <g transform="translate(3000,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">4</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Marcadet-Poissonniers</tspan></text>
+   </g>
+   <g transform="translate(3100,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Marx-Dormoy</tspan></text>
+   </g>
+   <g transform="translate(3200,500)">12122<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Porte de la Chapelle</tspan></text>
+   </g>
+   <g transform="translate(3300,500)">12122<circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Front Populaire</tspan></text>
+   </g>
+</svg>

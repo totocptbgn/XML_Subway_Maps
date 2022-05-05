@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="7000" height="1080">
+   <g transform="translate(500,500)">3B3B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">11</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Porte des Lilas</tspan></text>
+   </g>
+   <g transform="translate(600,500)">3B3B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Saint-Fargeau</tspan></text>
+   </g>
+   <g transform="translate(700,500)">3B3B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Pelleport</tspan></text>
+   </g>
+   <g transform="translate(800,500)">3B3B2<circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">3</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Gambetta</tspan></text>
+   </g>
+</svg>

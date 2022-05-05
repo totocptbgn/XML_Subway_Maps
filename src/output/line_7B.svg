@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="7000" height="1080">
+   <g transform="translate(500,500)">7B7B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Pré-Saint-Gervais</tspan></text>
+   </g>
+   <g transform="translate(900,300)">
+      <path d="M 0 0 H -100" style="stroke:#006fb6;stroke-width:8"/>
+      <path d="M -100 0  L -300 200" style="stroke:#006fb6;stroke-width:8"/>
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <path d="M 100 0  L 300 200" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Danube</tspan></text>
+   </g>
+   <g transform="translate(900,700)">= :  =<path d="M 0 0 H -100" style="stroke:#006fb6;stroke-width:8"/>
+      <path d="M -100 0  L -300 -200" style="stroke:#006fb6;stroke-width:8"/>
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8;fill:none"/>
+      <path d="M 100 0  L 300 -200" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">11</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Place des Fêtes</tspan></text>
+   </g>
+   <g transform="translate(1300,500)">7B7B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <path d="M 0 0 H -100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Botzaris</tspan></text>
+   </g>
+   <g transform="translate(1400,500)">7B7B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Buttes-Chaumont</tspan></text>
+   </g>
+   <g transform="translate(1500,500)">7B7B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Bolivar</tspan></text>
+   </g>
+   <g transform="translate(1600,500)">7B7B2<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+      <circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">5</text>
+      <circle cx="0"
+              cy="80"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="80"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">2</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Jaurès</tspan></text>
+   </g>
+   <g transform="translate(1700,500)">7B7B2<circle r="15" fill="white" stroke="black" stroke-width="3"/>
+      <circle cx="0"
+              cy="40"
+              r="15"
+              fill="none"
+              stroke="black"
+              stroke-width="3"/>
+      <text x="0"
+            y="40"
+            text-anchor="middle"
+            fill="black"
+            font-size="15px"
+            font-family="Arial"
+            font-weight="bold"
+            dy=".3em">7</text>
+      <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Louis Blanc</tspan></text>
+   </g>
+</svg>
