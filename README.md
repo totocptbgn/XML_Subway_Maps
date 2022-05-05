@@ -5,7 +5,12 @@
 Sujet disponible [ici](docs/maps.pdf).
 
 
-Execution :
--  java -jar ./saxon-he-10.3.jar -s:test.xml -xsl:svg.xsl line=10 -o:out.svg
-ou 
-- bash ./generate_all.sh
+### Execution :
+- Pour générer une ligne particulière :
+```sh
+java -jar ./saxon-he-10.3.jar -s:test.xml -xsl:svg.xsl line=[code de la ligne] -o:out.svg
+```
+- Pour générer toute les lignes :
+```sh
+bash ./generate_all.sh
+```
