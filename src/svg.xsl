@@ -19,7 +19,6 @@
     </xsl:template>
     <xsl:template name="test">
         <xsl:param name="names" />
-        <xsl:param name="testing" />
         <xsl:param name="x_coordinate" select="500"/>
         <xsl:param name="y_coordinate" select="500"/>
         <xsl:variable name="data" select="key('station', $names[1]/id)" />
@@ -126,21 +125,6 @@
             and name($names[1]/..)='subpath'
             ">
             <g transform="translate({$x_coordinate},{$y_coordinate+$bifurHeigh})">
-                <xsl:text>= </xsl:text>
-                <!-- <xsl:value-of select="count($names[1]/../../../preceding::station)"/> -->
-                <xsl:text>: </xsl:text>
-                <!--     <xsl:value-of select="($names[1]/../../../following::station/ancestor::line/@name)"/>
-                <xsl:text>: </xsl:text>
-                <xsl:value-of select="($names[1]/ancestor::line/@name) = ($names[1]/../../../following::station/ancestor::line/@name)"/> -->
-                <!--      ($names[1]/../../../@name) = ($names[1]/preceding::station/../../../@name) -->
-                <xsl:text> =</xsl:text>
-                <!-- <xsl:text> - : </xsl:text>
-                <xsl:value-of select="count($names[1]/../following-sibling::station)+1"/>
-                <xsl:text> - : </xsl:text>
-                <xsl:value-of select="count($names[1]/preceding::subpath[1]//following-sibling::station)"/> -->
-                <!--      <xsl:value-of select="(count($names[1]/following::station//following-sibling::station))"/> -->
-                <!-- if the next one exists, draw a line -->
-                <!-- if next exists and is a child of subpath -->
                 <xsl:if test="$names[2] and (name($names[2]/..)='subpath') ">
                     <path d="M 0 0 H {$pathWidth}" style="stroke:#006fb6;stroke-width:8" />
                 </xsl:if>
@@ -183,19 +167,9 @@
         <xsl:if test="count($names) > 1">
             <xsl:call-template name="test">
                 <xsl:with-param name="names" select="$names[position() > 1]"/>
-                <xsl:with-param name="testing" select="(count($names[2]/following-sibling::station))"/>
                 <xsl:with-param name="x_coordinate">
                     <xsl:choose>
                         <xsl:when test="((count($names[2]/preceding-sibling::station) = 0 and (count($names[2]/../preceding-sibling::subpath)+1)=2))">
-                            <!-- <xsl:value-of select="(count($names[1]/../following-sibling::station)+1)"/>
-                            <xsl:text> - : </xsl:text>
-                            <xsl:value-of select="(count($names[1]/following::subpath//following-sibling::station))"/> -->
-                            <!--  <xsl:if test="count($names[2]/../../following::station) > 0">
-                                <xsl:value-of select="$x_coordinate - (100*(count($names[2]/../following-sibling::station)))"/>
-                            </xsl:if>
-                            <xsl:if test="count($names[2]/../../following::station) = 0">
-                                <xsl:value-of select="$x_coordinate - (100*(count($names[2]/preceding::subpath[1]//following-sibling::station)-1))"/>
-                            </xsl:if> -->
                             <xsl:choose>
                                 <xsl:when test="($names[2]/ancestor::line/@name) = ($names[2]/../../following::station/ancestor::line/@name)">
                                     <xsl:value-of select="$x_coordinate - (100*(count($names[2]/following-sibling::station)))"/>
@@ -204,9 +178,6 @@
                                     <xsl:value-of select="$x_coordinate - (100*(count($names[2]/preceding::subpath[1]//following-sibling::station)-1))"/>
                                 </xsl:otherwise>
                             </xsl:choose>
-                            <!--    <xsl:value-of select="$x_coordinate - (100*(count($names[2]/../following-sibling::station) -
-                            (abs(count($names[2]/../following-sibling::station)+1) - (count($names[2]/preceding::subpath//following-sibling::station)))
-                            ))"/> -->
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of select="
