@@ -257,37 +257,45 @@
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Asnières-Gennevilliers Les Courtilles</tspan></text>
    </g>
-   <g transform="translate(2600,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(2600,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <path d="M 0 0 H -100" style="stroke:#006fb6;stroke-width:8"/>
       <path d="M -100 0  L -300 -200" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Guy-Môquet</tspan></text>
    </g>
-   <g transform="translate(2700,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(2700,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Porte de Saint-Ouen</tspan></text>
    </g>
-   <g transform="translate(2800,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(2800,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Garibaldi</tspan></text>
    </g>
-   <g transform="translate(2900,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(2900,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Mairie de Saint-Ouen</tspan></text>
    </g>
-   <g transform="translate(3000,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(3000,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Carrefour-Pleyel</tspan></text>
    </g>
-   <g transform="translate(3100,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(3100,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Saint-Denis - Porte de Paris</tspan></text>
    </g>
-   <g transform="translate(3200,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(3200,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Basilique de Saint-Denis</tspan></text>
    </g>
-   <g transform="translate(3300,700)">= :  =<circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
+   <g transform="translate(3300,700)">
+      <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Saint-Denis-Université</tspan></text>
    </g>
 </svg>

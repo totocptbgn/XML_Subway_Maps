@@ -40,13 +40,15 @@
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Mirabeau</tspan></text>
    </g>
-   <g transform="translate(1000,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(1000,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <path d="M 0 0 H -100" style="stroke:#006fb6;stroke-width:8"/>
       <path d="M -100 0  L -300 -200" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Porte d'Auteuil</tspan></text>
    </g>
-   <g transform="translate(1100,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
+   <g transform="translate(1100,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="white" stroke="black" stroke-width="3"/>
       <circle cx="0"
               cy="40"
@@ -64,7 +66,8 @@
             dy=".3em">9</text>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Michel-Ange-Auteuil</tspan></text>
    </g>
-   <g transform="translate(1200,700)">= :  =<path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8;fill:none"/>
+   <g transform="translate(1200,700)">
+      <path d="M 0 0 H 100" style="stroke:#006fb6;stroke-width:8;fill:none"/>
       <path d="M 100 0  L 300 -200" style="stroke:#006fb6;stroke-width:8"/>
       <circle r="15" fill="#006fb6" stroke="black" stroke-width="3"/>
       <text transform="rotate(-60)" xml:space=" preserve"><tspan y="0" x="40" style="font-weight:bold;font-size:30px;">Eglise d'Auteuil</tspan></text>
