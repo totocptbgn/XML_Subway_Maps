@@ -1,16 +1,21 @@
 # XML_Subway_Maps
 
-> Repo pour le projet de XML en M1.
+> Projet de Formats de documents & XML de M1.
 
-Sujet disponible [ici](docs/maps.pdf).
-
+Sujet disponible [ici](docs/sujet.pdf). Les lignes produites sont dans le répertoire [output/](src/output/).
 
 ### Execution :
 - Pour générer une ligne particulière :
 ```sh
-java -jar ./saxon-he-10.3.jar -s:test.xml -xsl:svg.xsl line=[code de la ligne] -o:out.svg
+java -jar ./src/saxon-he-10.3.jar -s:src/base_ratp.xml -xsl:src/svg.xsl line=[code de la ligne] -o:out.svg
 ```
-- Pour générer toute les lignes :
+
+- Pour générer toutes les lignes :
 ```sh
-bash ./generate_all.sh
+cd src && sh generate_all.sh
+```
+
+- Pour vérifier le format :
+```sh
+xmllint --schema base_ratp.xsd base_ratp.xml > out.txt
 ```

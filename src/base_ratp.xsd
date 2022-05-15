@@ -13,8 +13,8 @@
             <xsd:element name="desc" type="xsd:string"/>
         </xsd:sequence>
         <xsd:attribute name="id" type="xsd:positiveInteger" use="required"/>
-        <xsd:attribute name="lat" type="xsd:double" use="required"/>
-        <xsd:attribute name="lon" type="xsd:double" use="required"/>
+        <xsd:attribute name="x" type="xsd:int" use="required"/>
+        <xsd:attribute name="y" type="xsd:int" use="required"/>
     </xsd:complexType>
 
     <xsd:complexType name="Path">
