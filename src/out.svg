@@ -1,40 +1,1132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="7000" height="1080">0 : 0
-2.4102257791202 : 48.9205145066857
-2.40357633451101 : 48.9140567451466
-2.39248007867247 : 48.9038980475295
-2.3856442301273 : 48.8975291568915
-2.38230219397424 : 48.8946815419881
-2.37677864892536 : 48.8902887750447
-2.37443310888499 : 48.8883932319013
-2.36703044197457 : 48.8841892942088
-2.36510721826434 : 48.8809004281511
-2.3620537162489 : 48.8784565668312
-2.35898704645633 : 48.8764170528791
-2.3493814239526 : 48.877353095288
-2.34334512457327 : 48.8758257180382
-2.34015679084921 : 48.8749630580261
-2.33342622405285 : 48.8729858246652
-2.33255448204959 : 48.8705592165449
-2.3340942152591 : 48.8664969870386
-2.33548383677237 : 48.8633873850655
-2.342117238666 : 48.8585341022857
-2.34722471105584 : 48.8572036455044
-2.35738397280916 : 48.8534635856948
-2.3612369937143 : 48.8507935947421
-2.35480739269422 : 48.8459684322046
-2.3521103624151 : 48.8431646927668
-2.35175561294669 : 48.8405943000016
-2.35208111783557 : 48.8361274397525
-2.35533344321905 : 48.8315523026431
-2.35701946618913 : 48.8261594539114
-2.35807989429085 : 48.8228787750632
-2.36183068309113 : 48.8103851251295
-2.36390930638904 : 48.8037696632827
-2.36823145191568 : 48.7959941323932
-2.36711052738165 : 48.7866380111198
-2.36050083280537 : 48.8187170251155
-2.36496559829082 : 48.8199024461617
-2.36930823722325 : 48.8213573623076
-2.37787881648387 : 48.8159171816004
+<svg xmlns="http://www.w3.org/2000/svg" width="10000" height="10000">1<g transform="translate(6740,4619)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 6760 4718 6740 4619" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6760,4718)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 6635 4954 6760 4718" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6635,4954)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6471 5042 6635 4954" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6471,5042)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6387 5258 6471 5042" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6387,5258)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6291 5372 6387 5258" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6291,5372)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 6159 5536 6291 5372" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6159,5536)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 6031 5654 6159 5536" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6031,5654)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5808 5935 6031 5654" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5808,5935)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5800 6142 5808 5935" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5800,6142)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5702 6206 5800 6142" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5702,6206)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 5439 6215 5702 6206" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5439,6215)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 5103 6195 5439 6215" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5103,6195)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4927 6147 5103 6195" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4927,6147)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4692 6126 4927 6147" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4692,6126)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4531 6187 4692 6126" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4531,6187)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4354 6162 4531 6187" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4354,6162)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4121 6111 4354 6162" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4121,6111)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 3992 6077 4121 6111" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3992,6077)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 3749 6043 3992 6077" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3749,6043)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 3541 5984 3749 6043" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3541,5984)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 3366 5937 3541 5984" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3366,5937)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 3264 5743 3366 5937" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3264,5743)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 2929 5560 3264 5743" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2929,5560)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 2578 5647 2929 5560" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2578,5647)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(8194,4408)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 7777 4455 8194 4408" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7777,4455)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 7463 4494 7777 4455" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7463,4494)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 7186 4529 7463 4494" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7186,4529)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6740 4619 7186 4529" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6740,4619)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6339 4544 6740 4619" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6339,4544)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 5908 4423 6339 4544" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5908,4423)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5776 4798 5908 4423" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5776,4798)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5509 4895 5776 4798" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5509,4895)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5195 4996 5509 4895" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5195,4996)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5030 4989 5195 4996" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5030,4989)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 4818 5155 5030 4989" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4818,5155)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 4632 5268 4818 5155" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4632,5268)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4416 5331 4632 5268" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4416,5331)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4148 5371 4416 5331" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4148,5371)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 3911 5447 4148 5371" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3911,5447)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 3777 5521 3911 5447" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3777,5521)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 3456 5658 3777 5521" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3456,5658)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 3264 5743 3456 5658" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3264,5743)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 3072 5822 3264 5743" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3072,5822)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 2835 5927 3072 5822" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2835,5927)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 2477 6076 2835 5927" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2477,6076)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 2024 6266 2477 6076" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2024,6266)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 1732 6394 2024 6266" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(1732,6394)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 1328 6551 1732 6394" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(1328,6551)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(7361,5262)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 7118 5311 7361 5262" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7118,5311)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 6770 5342 7118 5311" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6770,5342)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6387 5258 6770 5342" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6387,5258)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6172 5299 6387 5258" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6172,5299)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 5964 5352 6172 5299" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5964,5352)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 5585 5449 5964 5352" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5585,5449)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5517 5420 5585 5449" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5517,5420)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5331 5365 5517 5420" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5331,5365)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5213 5388 5331 5365" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5213,5388)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5042 5447 5213 5388" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5042,5447)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 4808 5510 5042 5447" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4808,5510)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 4661 5551 4808 5510" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4661,5551)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4533 5591 4661 5551" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4533,5591)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4395 5722 4533 5591" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4395,5722)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4249 5840 4395 5722" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4249,5840)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4208 5975 4249 5840" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4208,5975)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 3992 6077 4208 5975" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3992,6077)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 3803 6132 3992 6077" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3803,6132)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 3618 6185 3803 6132" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3618,6185)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 3332 6244 3618 6185" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3332,6244)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 3154 6276 3332 6244" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3154,6276)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 3025 6435 3154 6276" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3025,6435)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 2939 6559 3025 6435" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2939,6559)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 2778 6798 2939 6559" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2778,6798)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(7035,5879)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 6965 5643 7035 5879" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6965,5643)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 6864 5486 6965 5643" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6864,5486)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6770 5342 6864 5486" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6770,5342)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(4921,6828)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 5031 6654 4921 6828" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5031,6654)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 5103 6538 5031 6654" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5103,6538)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 5103 6337 5103 6538" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5103,6337)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 5103 6195 5103 6337" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5103,6195)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 5280 6006 5103 6195" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5280,6006)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 5429 5856 5280 6006" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5429,5856)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5330 5677 5429 5856" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5330,5677)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5277 5550 5330 5677" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5277,5550)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5213 5388 5277 5550" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5213,5388)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5090 5282 5213 5388" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5090,5282)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 5005 5206 5090 5282" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5005,5206)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 5030 4989 5005 5206" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5030,4989)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4996 4920 5030 4989" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4996,4920)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4921 4826 4996 4920" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4921,4826)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4747 4768 4921 4826" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4747,4768)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4550 4819 4747 4768" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4550,4819)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4479 4716 4550 4819" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4479,4716)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 4347 4529 4479 4716" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4347,4529)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 4142 4306 4347 4529" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4142,4306)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 4408 4306 4142 4306" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4408,4306)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 4462 4175 4408 4306" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4462,4175)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 4521 3955 4462 4175" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4521,3955)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 4460 3861 4521 3955" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4460,3861)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 4339 3674 4460 3861" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4339,3674)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<path d="M 4279 3438 4339 3674" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4279,3438)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>27<path d="M 4095 3241 4279 3438" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4095,3241)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(8496,7242)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 7662 6730 8496 7242" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7662,6730)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 7257 6632 7662 6730" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7257,6632)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6925 6536 7257 6632" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6925,6536)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6562 6404 6925 6536" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6562,6404)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6367 6330 6562 6404" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6367,6330)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 6110 6240 6367 6330" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6110,6240)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5800 6142 6110 6240" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5800,6142)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5702 6206 5800 6142" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5702,6206)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5280 6006 5702 6206" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5280,6006)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5429 5856 5280 6006" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5429,5856)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 5483 5598 5429 5856" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5483,5598)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 5585 5449 5483 5598" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5585,5449)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 5722 5339 5585 5449" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5722,5339)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 5884 5146 5722 5339" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5884,5146)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 5829 4969 5884 5146" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5829,4969)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 5776 4798 5829 4969" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5776,4798)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 5698 4482 5776 4798" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5698,4482)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 5605 4367 5698 4482" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5605,4367)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 5488 4146 5605 4367" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5488,4146)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 5421 4012 5488 4146" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5421,4012)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 5305 3832 5421 4012" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5305,3832)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(6740,4619)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 6880 4453 6740 4619" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6880,4453)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 6849 4277 6880 4453" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6849,4277)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6670 4198 6849 4277" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6670,4198)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6458 4162 6670 4198" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6458,4162)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6124 4221 6458 4162" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6124,4221)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 5933 4105 6124 4221" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5933,4105)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5738 3986 5933 4105" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5738,3986)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5528 3892 5738 3986" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5528,3892)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5305 3832 5528 3892" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5305,3832)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5145 3755 5305 3832" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5145,3755)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 4891 3818 5145 3755" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4891,3818)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 4673 3897 4891 3818" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4673,3897)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4521 3955 4673 3897" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4521,3955)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4462 4175 4521 3955" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4462,4175)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4324 4238 4462 4175" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4324,4238)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4142 4306 4324 4238" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4142,4306)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 3880 4304 4142 4306" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3880,4304)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 3798 4438 3880 4304" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3798,4438)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 3499 4560 3798 4438" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3499,4560)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 3354 4620 3499 4560" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3354,4620)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 3214 4682 3354 4620" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3214,4682)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 3050 4859 3214 4682" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3050,4859)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 2941 5004 3050 4859" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2941,5004)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 2998 5235 2941 5004" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2998,5235)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<path d="M 3092 5424 2998 5235" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3092,5424)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>27<path d="M 3203 5625 3092 5424" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3203,5625)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>28<path d="M 3264 5743 3203 5625" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3264,5743)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(7166,7845)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 6940 7554 7166 7845" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6940,7554)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 6564 7095 6940 7554" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6564,7095)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6333 6808 6564 7095" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6333,6808)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6219 6679 6333 6808" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6219,6679)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6032 6481 6219 6679" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6032,6481)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 5953 6396 6032 6481" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5953,6396)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5702 6206 5953 6396" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5702,6206)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5636 6058 5702 6206" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5636,6058)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5533 5948 5636 6058" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5533,5948)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5429 5856 5533 5948" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5429,5856)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 5103 5898 5429 5856" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5103,5898)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 4899 5829 5103 5898" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4899,5829)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4791 5790 4899 5829" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4791,5790)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4563 5701 4791 5790" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4563,5701)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4533 5591 4563 5701" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4533,5591)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4585 5408 4533 5591" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4585,5408)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4632 5268 4585 5408" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4632,5268)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 4857 5049 4632 5268" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4857,5049)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 5030 4989 4857 5049" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5030,4989)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 5375 4820 5030 4989" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5375,4820)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 5505 4700 5375 4820" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5505,4700)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 5287 4482 5505 4700" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5287,4482)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 5196 4356 5287 4482" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5196,4356)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 5184 4240 5196 4356" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5184,4240)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<path d="M 5195 4038 5184 4240" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5195,4038)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>27<path d="M 5305 3832 5195 4038" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5305,3832)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>28<path d="M 5362 3588 5305 3832" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5362,3588)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>29<path d="M 5398 3440 5362 3588" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5398,3440)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>30<path d="M 5525 2877 5398 3440" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5525,2877)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>31<path d="M 5596 2578 5525 2877" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5596,2578)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>32<path d="M 5742 2228 5596 2578" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5742,2228)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>33<path d="M 5704 1806 5742 2228" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5704,1806)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>34<g transform="translate(5480,3253)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>35<g transform="translate(5632,3306)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 5632 3306 5480 3253" style="stroke:black;stroke-width:8"/>36<g transform="translate(5779,3372)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 5779 3372 5632 3306" style="stroke:black;stroke-width:8"/>37<g transform="translate(6069,3126)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 6069 3126 5779 3372" style="stroke:black;stroke-width:8"/>38<g transform="translate(6260,2914)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 6260 2914 6069 3126" style="stroke:black;stroke-width:8"/>1<g transform="translate(6771,6024)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 6591 6105 6771 6024" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6591,6105)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<g transform="translate(6587,5870)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6460 5999 6587 5870" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6460,5999)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6182 5918 6460 5999" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6182,5918)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 5943 6053 6182 5918" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5943,6053)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 5800 6142 5943 6053" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5800,6142)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5636 6058 5800 6142" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5636,6058)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(2707,4069)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 2828 4153 2707 4069" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2828,4153)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 3020 4259 2828 4153" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3020,4259)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 3166 4340 3020 4259" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3166,4340)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 3219 4421 3166 4340" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3219,4421)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 3354 4620 3219 4421" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3354,4620)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 3614 4856 3354 4620" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3614,4856)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 3762 4990 3614 4856" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3762,4990)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 3923 5153 3762 4990" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3923,5153)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 4148 5371 3923 5153" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4148,5371)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 4264 5557 4148 5371" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4264,5557)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 4533 5591 4264 5557" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4533,5591)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 4763 5661 4533 5591" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4763,5661)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4894 5634 4763 5661" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4894,5634)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 5086 5588 4894 5634" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5086,5588)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 5277 5550 5086 5588" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5277,5550)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 5585 5449 5277 5550" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5585,5449)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 5692 5254 5585 5449" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5692,5254)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 5710 5159 5692 5254" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5710,5159)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 5736 5006 5710 5159" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5736,5006)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 5776 4798 5736 5006" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5776,4798)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 6003 4718 5776 4798" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6003,4718)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 6291 4667 6003 4718" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6291,4667)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 6339 4544 6291 4667" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6339,4544)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 6468 4400 6339 4544" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6468,4400)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<path d="M 6670 4198 6468 4400" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6670,4198)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>27<path d="M 6918 4077 6670 4198" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6918,4077)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>28<path d="M 7029 4010 6918 4077" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7029,4010)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>29<path d="M 6835 3882 7029 4010" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6835,3882)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>30<path d="M 7070 3565 6835 3882" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7070,3565)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>31<path d="M 7289 3378 7070 3565" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7289,3378)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>32<path d="M 7553 3088 7289 3378" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7553,3088)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>33<path d="M 8049 2779 7553 3088" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8049,2779)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>34<path d="M 8385 2521 8049 2779" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8385,2521)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>35<path d="M 8498 2255 8385 2521" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8498,2255)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>36<path d="M 8542 1945 8498 2255" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8542,1945)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>37<path d="M 8830 1495 8542 1945" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8830,1495)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>38<path d="M 9000 999 8830 1495" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(9000,999)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(1075,3748)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 1333 3856 1075 3748" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(1333,3856)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 1514 3933 1333 3856" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(1514,3933)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 1924 4103 1514 3933" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(1924,4103)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 2078 4344 1924 4103" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2078,4344)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 2138 4441 2078 4344" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2138,4441)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 2217 4570 2138 4441" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2217,4570)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 2343 4774 2217 4570" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2343,4774)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 2411 4912 2343 4774" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2411,4912)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 2551 5029 2411 4912" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2551,5029)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 2681 5307 2551 5029" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2681,5307)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 2998 5235 2681 5307" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2998,5235)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 3228 5311 2998 5235" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3228,5311)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 3472 5309 3228 5311" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3472,5309)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 3777 5521 3472 5309" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3777,5521)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 3795 5678 3777 5521" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3795,5678)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 3973 5722 3795 5678" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3973,5722)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4132 5764 3973 5722" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4132,5764)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 4395 5722 4132 5764" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4395,5722)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 4563 5701 4395 5722" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4563,5701)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 4763 5661 4563 5701" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4763,5661)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 4894 5634 4763 5661" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4894,5634)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 5086 5588 4894 5634" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5086,5588)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 5277 5550 5086 5588" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5277,5550)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 5585 5449 5277 5550" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5585,5449)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<path d="M 5722 5339 5585 5449" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5722,5339)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>27<path d="M 5909 5189 5722 5339" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5909,5189)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>28<path d="M 6143 5010 5909 5189" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6143,5010)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>29<path d="M 6312 4873 6143 5010" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6312,4873)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>30<path d="M 6450 4764 6312 4873" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6450,4764)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>31<path d="M 6740 4619 6450 4764" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6740,4619)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>32<path d="M 6859 4744 6740 4619" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6859,4744)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>33<path d="M 7036 4781 6859 4744" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7036,4781)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>34<path d="M 7174 4816 7036 4781" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7174,4816)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>35<path d="M 7621 4920 7174 4816" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7621,4920)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>36<path d="M 8035 5025 7621 4920" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8035,5025)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>37<path d="M 8237 5218 8035 5025" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(8237,5218)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(999,4243)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 1357 4316 999 4243" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(1357,4316)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 2138 4441 1357 4316" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2138,4441)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 2309 4443 2138 4441" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2309,4443)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 2517 4532 2309 4443" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2517,4532)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<g transform="translate(1996,4584)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<g transform="translate(2217,4570)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 2217 4570 1996 4584" style="stroke:black;stroke-width:8"/>8<g transform="translate(2395,4553)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 2395 4553 2217 4570" style="stroke:black;stroke-width:8"/>9<path d="M 2677 4482 2395 4553" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2677,4482)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 2942 4500 2677 4482" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2942,4500)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 3275 4522 2942 4500" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3275,4522)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 3354 4620 3275 4522" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3354,4620)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 3676 4522 3354 4620" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3676,4522)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 3990 4528 3676 4522" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3990,4528)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4149 4605 3990 4528" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4149,4605)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4315 4706 4149 4605" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4315,4706)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4621 4792 4315 4706" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4621,4792)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4747 4768 4621 4792" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4747,4768)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 4956 4700 4747 4768" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4956,4700)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 5088 4651 4956 4700" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5088,4651)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 5170 4515 5088 4651" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5170,4515)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 5287 4482 5170 4515" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5287,4482)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 5605 4367 5287 4482" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5605,4367)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(7350,6019)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 7035 5879 7350 6019" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(7035,5879)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 6774 5815 7035 5879" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6774,5815)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 6587 5870 6774 5815" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6587,5870)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 6458 5803 6587 5870" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6458,5803)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6307 5738 6458 5803" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6307,5738)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 6031 5654 6307 5738" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6031,5654)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 5828 5567 6031 5654" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5828,5567)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5585 5449 5828 5567" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5585,5449)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 5331 5365 5585 5449" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5331,5365)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 5236 5169 5331 5365" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5236,5169)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 5195 4996 5236 5169" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5195,4996)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 5030 4989 5195 4996" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5030,4989)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(2533,3507)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 6219 6679 2533 3507" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6219,6679)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 3018 3863 6219 6679" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3018,3863)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 3307 4084 3018 3863" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3307,4084)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 3466 4187 3307 4084" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3466,4187)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 3700 4277 3466 4187" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3700,4277)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 3880 4304 3700 4277" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3880,4304)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 4025 4408 3880 4304" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4025,4408)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 4142 4306 4025 4408" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4142,4306)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 4394 4429 4142 4306" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4394,4429)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 4379 4583 4394 4429" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4379,4583)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 4315 4706 4379 4583" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4315,4706)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 4301 4930 4315 4706" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4301,4930)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 4212 5049 4301 4930" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4212,5049)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4118 5181 4212 5049" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4118,5181)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4148 5371 4118 5181" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4148,5371)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4264 5557 4148 5371" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4264,5557)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4249 5840 4264 5557" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4249,5840)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 4508 5852 4249 5840" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4508,5852)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 4714 5839 4508 5852" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4714,5839)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 4712 5954 4714 5839" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4712,5954)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 4692 6126 4712 5954" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4692,6126)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 4731 6216 4692 6126" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4731,6216)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 4757 6456 4731 6216" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4757,6456)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<path d="M 4932 6581 4757 6456" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4932,6581)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<path d="M 5103 6538 4932 6581" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5103,6538)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>27<path d="M 5456 6485 5103 6538" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5456,6485)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>28<path d="M 5438 6827 5456 6485" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5438,6827)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>29<path d="M 5641 7220 5438 6827" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5641,7220)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>1<g transform="translate(3473,2872)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 3337 3072 3473 2872" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3337,3072)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 3359 3421 3337 3072" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3359,3421)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 3576 3661 3359 3421" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3576,3661)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 3900 3841 3576 3661" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3900,3841)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 4037 3939 3900 3841" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4037,3939)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 4192 4156 4037 3939" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4192,4156)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 4142 4306 4192 4156" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4142,4306)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 3990 4528 4142 4306" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3990,4528)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>10<path d="M 3919 4708 3990 4528" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3919,4708)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>11<path d="M 3930 4952 3919 4708" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3930,4952)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>12<path d="M 3923 5153 3930 4952" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3923,5153)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>13<path d="M 3911 5447 3923 5153" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3911,5447)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>14<path d="M 3973 5722 3911 5447" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3973,5722)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>15<path d="M 4249 5840 3973 5722" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4249,5840)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>16<path d="M 4340 5996 4249 5840" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4340,5996)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>17<path d="M 4354 6162 4340 5996" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4354,6162)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>18<path d="M 4302 6353 4354 6162" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4302,6353)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>19<path d="M 4114 6497 4302 6353" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4114,6497)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>20<path d="M 3889 6668 4114 6497" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3889,6668)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>21<path d="M 3611 7100 3889 6668" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3611,7100)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>22<path d="M 3237 7667 3611 7100" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(3237,7667)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>23<path d="M 2954 7953 3237 7667" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2954,7953)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>24<path d="M 2879 8286 2954 7953" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(2879,8286)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>25<g transform="translate(4362,6604)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>26<g transform="translate(4413,6807)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 4413 6807 4362 6604" style="stroke:black;stroke-width:8"/>27<g transform="translate(4511,7207)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 4511 7207 4413 6807" style="stroke:black;stroke-width:8"/>28<g transform="translate(4573,7444)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 4573 7444 4511 7207" style="stroke:black;stroke-width:8"/>29<g transform="translate(4918,7819)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 4918 7819 4573 7444" style="stroke:black;stroke-width:8"/>30<g transform="translate(5334,8269)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 5334 8269 4918 7819" style="stroke:black;stroke-width:8"/>31<g transform="translate(5451,8565)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 5451 8565 5334 8269" style="stroke:black;stroke-width:8"/>32<g transform="translate(5533,8999)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
+   <path d="M 5533 8999 5451 8565" style="stroke:black;stroke-width:8"/>1<g transform="translate(4249,5840)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>2<path d="M 4264 5557 4249 5840" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4264,5557)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>3<path d="M 4585 5408 4264 5557" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(4585,5408)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>4<path d="M 5030 4989 4585 5408" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5030,4989)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>5<path d="M 5908 4423 5030 4989" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5908,4423)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>6<path d="M 6124 4221 5908 4423" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6124,4221)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>7<path d="M 6389 3911 6124 4221" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6389,3911)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>8<path d="M 6010 3754 6389 3911" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(6010,3754)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>9<path d="M 5702 3624 6010 3754" style="stroke:black;stroke-width:8"/>
+   <g transform="translate(5702,3624)">
+      <circle r="25" fill="black" stroke="black" stroke-width="3"/>
+   </g>
 </svg>
