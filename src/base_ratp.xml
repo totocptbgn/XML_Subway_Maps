@@ -1,1211 +1,1211 @@
 <?xml version="1.0" ?>
 <root>
    <data>
-      <station id="2004" x="4731" y="6216">
+      <station id="2004" x="473" y="378">
          <name>Abbesses</name>
          <desc>Place des Abbesses - 75118</desc>
       </station>
-      <station id="2008" x="4339" y="3674">
+      <station id="2008" x="433" y="632">
          <name>Alésia</name>
          <desc>Place Victor et Hélène Basch - 75114</desc>
       </station>
-      <station id="2012" x="6635" y="4954">
+      <station id="2012" x="663" y="504">
          <name>Alexandre-Dumas</name>
          <desc>111 boulevard de Charonne - 75111</desc>
       </station>
-      <station id="2016" x="3472" y="5309">
+      <station id="2016" x="347" y="469">
          <name>Alma-Marceau</name>
          <desc>Pont de l'Alma - 75116</desc>
       </station>
-      <station id="2020" x="2939" y="6559">
+      <station id="2020" x="293" y="344">
          <name>Anatole-France</name>
          <desc>Rue Voltaire - 92044</desc>
       </station>
-      <station id="2024" x="4927" y="6147">
+      <station id="2024" x="492" y="385">
          <name>Anvers</name>
          <desc>68 boulevard Rochechouart - 75118</desc>
       </station>
-      <station id="2028" x="3072" y="5822">
+      <station id="2028" x="307" y="417">
          <name>Argentine</name>
          <desc>Rue des Acacias - 75117</desc>
       </station>
-      <station id="2032" x="5331" y="5365">
+      <station id="2032" x="533" y="463">
          <name>Arts-et-Métiers</name>
          <desc>Rue des Vertus - 75103</desc>
       </station>
-      <station id="2036" x="2879" y="8286">
+      <station id="2036" x="287" y="171">
          <name>Asnières-Gennevilliers Les Courtilles</name>
          <desc>Angle Boulevard Pierre de Coubertin / Avenue Lucien Lanternier - 92004</desc>
       </station>
-      <station id="2040" x="4118" y="5181">
+      <station id="2040" x="411" y="481">
          <name>Assemblée Nationale</name>
          <desc>Angle avec le 239 bd Saint-Germain et la rue de Courty - 75107</desc>
       </station>
-      <station id="2044" x="6564" y="7095">
+      <station id="2044" x="656" y="290">
          <name>Aubervilliers Pantin 4 Chemins</name>
          <desc>80 avenue Jean Jaurès - 93001</desc>
       </station>
-      <station id="2048" x="3275" y="4522">
+      <station id="2048" x="327" y="547">
          <name>Avenue Emile-Zola</name>
          <desc>Rue du Commerce - 75115</desc>
       </station>
-      <station id="2052" x="6760" y="4718">
+      <station id="2052" x="676" y="528">
          <name>Avron</name>
          <desc>Terre-plein face au 35 boulevard de Charonne - 75111</desc>
       </station>
-      <station id="2056" x="2707" y="4069">
+      <station id="2056" x="270" y="593">
          <name>Balard</name>
          <desc>Rue Louis Armand - 75115</desc>
       </station>
-      <station id="2060" x="5103" y="6195">
+      <station id="2060" x="510" y="380">
          <name>Barbès-Rochechouart</name>
          <desc>Boulevard de la Chapelle - 75109</desc>
       </station>
-      <station id="2064" x="5451" y="8565">
+      <station id="2064" x="545" y="143">
          <name>Basilique de Saint-Denis</name>
          <desc>Place du Cacquet - 93066</desc>
       </station>
-      <station id="2068" x="5776" y="4798">
+      <station id="2068" x="577" y="520">
          <name>Bastille</name>
          <desc>Rue de la Roquette - 75104</desc>
       </station>
-      <station id="2072" x="6849" y="4277">
+      <station id="2072" x="684" y="572">
          <name>Bel-Air</name>
          <desc>34 boulevard de Picpus - 75112</desc>
       </station>
-      <station id="2076" x="6031" y="5654">
+      <station id="2076" x="603" y="434">
          <name>Belleville</name>
          <desc>Terre-plein face au 1 boulevard de la Villette - 75119</desc>
       </station>
-      <station id="2080" x="7777" y="4455">
+      <station id="2080" x="777" y="554">
          <name>Bérault</name>
          <desc>98 avenue de Paris - 94080</desc>
       </station>
-      <station id="2084" x="6124" y="4221">
+      <station id="2084" x="612" y="577">
          <name>Bercy</name>
          <desc>Place du Bataillon du Pacifique - 75112</desc>
       </station>
-      <station id="2088" x="6010" y="3754">
+      <station id="2088" x="601" y="624">
          <name>Bibliothèque-François Mitterrand</name>
          <desc>Face au 62 rue du Chevaleret - 75113</desc>
       </station>
-      <station id="2092" x="1333" y="3856">
+      <station id="2092" x="133" y="614">
          <name>Billancourt</name>
          <desc>88 bis avenue du Général Leclerc - 92012</desc>
       </station>
-      <station id="2096" x="3050" y="4859">
+      <station id="2096" x="305" y="514">
          <name>Bir-Hakeim Grenelle</name>
          <desc>Tour Eiffel - 75115</desc>
       </station>
-      <station id="2100" x="4531" y="6187">
+      <station id="2100" x="453" y="381">
          <name>Blanche</name>
          <desc>Terre-plein face au 59 boulevard de Clichy - 75118</desc>
       </station>
-      <station id="2104" x="8496" y="7242">
+      <station id="2104" x="849" y="275">
          <name>Bobigny-Pablo-Picasso</name>
          <desc>Préfecture Trésorerie - 93008</desc>
       </station>
-      <station id="2108" x="7662" y="6730">
+      <station id="2108" x="766" y="326">
          <name>Bobigny-Pantin Raymond Queneau</name>
          <desc>7 rue de Paris - 93008</desc>
       </station>
-      <station id="2112" x="3092" y="5424">
+      <station id="2112" x="309" y="457">
          <name>Boissière</name>
          <desc>57 avenue Kléber - 75116</desc>
       </station>
-      <station id="2116" x="5943" y="6053">
+      <station id="2116" x="594" y="394">
          <name>Bolivar</name>
          <desc>Simon Bolivar 125 avenue - 75119</desc>
       </station>
-      <station id="2120" x="5086" y="5588">
+      <station id="2120" x="508" y="441">
          <name>Bonne Nouvelle</name>
          <desc>Boulevard de Bonne Nouvelle - 75109</desc>
       </station>
-      <station id="2124" x="6460" y="5999">
+      <station id="2124" x="646" y="400">
          <name>Botzaris</name>
          <desc>80 rue Botzaris - 75119</desc>
       </station>
-      <station id="2128" x="3020" y="4259">
+      <station id="2128" x="302" y="574">
          <name>Boucicaut</name>
          <desc>Rue Félix Faure - 75115</desc>
       </station>
-      <station id="2132" x="999" y="4243">
+      <station id="2132" x="99" y="575">
          <name>Boulogne Pont de Saint-Cloud</name>
          <desc>Musée Albert Kahn - 92012</desc>
       </station>
-      <station id="2136" x="1357" y="4316">
+      <station id="2136" x="135" y="568">
          <name>Boulogne-Jean-Jaurès</name>
          <desc>Rue du Chateau - 92012</desc>
       </station>
-      <station id="2140" x="4808" y="5510">
+      <station id="2140" x="480" y="448">
          <name>Bourse</name>
          <desc>Rue Notre-Dame des Victoires - 75102</desc>
       </station>
-      <station id="2144" x="5829" y="4969">
+      <station id="2144" x="582" y="503">
          <name>Bréguet-Sabin</name>
          <desc>Boulevard Richard Lenoir - 75111</desc>
       </station>
-      <station id="2148" x="4114" y="6497">
+      <station id="2148" x="411" y="350">
          <name>Brochant</name>
          <desc>Marché des Batignolles - 75117</desc>
       </station>
-      <station id="2152" x="6182" y="5918">
+      <station id="2152" x="618" y="408">
          <name>Buttes-Chaumont</name>
          <desc>Botzaris 28 rue - 75119</desc>
       </station>
-      <station id="2156" x="6859" y="4744">
+      <station id="2156" x="685" y="525">
          <name>Buzenval</name>
          <desc>51 rue de Buzenval - 75120</desc>
       </station>
-      <station id="2160" x="4899" y="5829">
+      <station id="2160" x="489" y="417">
          <name>Cadet</name>
          <desc>Terre-plein face au 65 rue La Fayette - 75109</desc>
       </station>
-      <station id="2164" x="3499" y="4560">
+      <station id="2164" x="349" y="543">
          <name>Cambronne</name>
          <desc>2 Boulevard Garibaldi Côté des N° pairs - 75115</desc>
       </station>
-      <station id="2168" x="5421" y="4012">
+      <station id="2168" x="542" y="598">
          <name>Campo-Formio</name>
          <desc>106-112 boulevard de l' Hôpital - 75113</desc>
       </station>
-      <station id="2172" x="5170" y="4515">
+      <station id="2172" x="517" y="548">
          <name>Cardinal-Lemoine</name>
          <desc>55 rue du Cardinal Lemoine - 75105</desc>
       </station>
-      <station id="2176" x="4918" y="7819">
+      <station id="2176" x="491" y="218">
          <name>Carrefour-Pleyel</name>
          <desc>Centre Paris - Pleyel - 93066</desc>
       </station>
-      <station id="2180" x="5184" y="4240">
+      <station id="2180" x="518" y="575">
          <name>Censier-Daubenton</name>
          <desc>96 rue Monge - 75105</desc>
       </station>
-      <station id="2184" x="3911" y="5447">
+      <station id="2184" x="391" y="455">
          <name>Champs-Elysées-Clémenceau</name>
          <desc>Clémenceau place - 75108</desc>
       </station>
-      <station id="2188" x="2309" y="4443">
+      <station id="2188" x="230" y="555">
          <name>Chardon-Lagache</name>
          <desc>11 rue Chardon Lagache - 75116</desc>
       </station>
-      <station id="2192" x="7289" y="3378">
+      <station id="2192" x="728" y="662">
          <name>Charenton-Ecoles</name>
          <desc>Rue de Paris - 94018</desc>
       </station>
-      <station id="2196" x="3264" y="5743">
+      <station id="2196" x="326" y="425">
          <name>Charles de Gaulle-Etoile</name>
          <desc>Place Charles de Gaulle - 75108</desc>
       </station>
-      <station id="2200" x="2942" y="4500">
+      <station id="2200" x="294" y="549">
          <name>Charles Michels</name>
          <desc>36 rue des Entrepreneurs - 75115</desc>
       </station>
-      <station id="2204" x="6312" y="4873">
+      <station id="2204" x="631" y="512">
          <name>Charonne</name>
          <desc>188 boulevard Voltaire - 75111</desc>
       </station>
-      <station id="2208" x="5330" y="5677">
+      <station id="2208" x="533" y="432">
          <name>Château d'Eau</name>
          <desc>Boulevard de Strasbourg - 75110</desc>
       </station>
-      <station id="2212" x="8194" y="4408">
+      <station id="2212" x="819" y="559">
          <name>Château de Vincennes</name>
          <desc>Gare routière - 94080</desc>
       </station>
-      <station id="2216" x="5533" y="5948">
+      <station id="2216" x="553" y="405">
          <name>Château Landon</name>
          <desc>188 rue du Faubourg Saint-Martin - 75110</desc>
       </station>
-      <station id="2220" x="5103" y="6337">
+      <station id="2220" x="510" y="366">
          <name>Château Rouge</name>
          <desc>48 Place du Château Rouge - 75118</desc>
       </station>
-      <station id="2224" x="5030" y="4989">
+      <station id="2224" x="503" y="501">
          <name>Châtelet</name>
          <desc>Théâtre du Châtelet - 75101</desc>
       </station>
-      <station id="2228" x="3473" y="2872">
+      <station id="2228" x="347" y="712">
          <name>Châtillon Montrouge</name>
          <desc>r. de l'Avenir - 92020</desc>
       </station>
-      <station id="2232" x="4563" y="5701">
+      <station id="2232" x="456" y="429">
          <name>Chaussée d'Antin La Fayette</name>
          <desc>Rue La Fayette - 75109</desc>
       </station>
-      <station id="2236" x="5736" y="5006">
+      <station id="2236" x="573" y="499">
          <name>Chemin Vert</name>
          <desc>Place des Vosges - 75103</desc>
       </station>
-      <station id="2240" x="5738" y="3986">
+      <station id="2240" x="573" y="601">
          <name>Chevaleret</name>
          <desc>Terre-plein face au 79 boulevard Vincent Auriol - 75113</desc>
       </station>
-      <station id="2244" x="4996" y="4920">
+      <station id="2244" x="499" y="507">
          <name>Cité</name>
          <desc>2 Place Louis Lepine - 75104</desc>
       </station>
-      <station id="2248" x="4956" y="4700">
+      <station id="2248" x="495" y="529">
          <name>Cluny-La Sorbonne</name>
          <desc>Rue Saint Jacques - 75105</desc>
       </station>
-      <station id="2252" x="5808" y="5935">
+      <station id="2252" x="580" y="406">
          <name>Colonel Fabien</name>
          <desc>Tterre-plein face au 83 boulevard de la Villette - 75110</desc>
       </station>
-      <station id="2256" x="3219" y="4421">
+      <station id="2256" x="321" y="557">
          <name>Commerce</name>
          <desc>21 place du Commerce - 75115</desc>
       </station>
-      <station id="2260" x="4148" y="5371">
+      <station id="2260" x="414" y="462">
          <name>Concorde</name>
          <desc>Place de la Concorde - 75108</desc>
       </station>
-      <station id="2264" x="3307" y="4084">
+      <station id="2264" x="330" y="591">
          <name>Convention</name>
          <desc>337 rue de Vaugirard - 75115</desc>
       </station>
-      <station id="2268" x="6219" y="6679">
+      <station id="2268" x="621" y="332">
          <name>Corentin-Cariou</name>
          <desc>avenue Corentin Cariou - 75119</desc>
       </station>
-      <station id="2272" x="6219" y="6679">
+      <station id="2272" x="272" y="636">
          <name>Corentin-Celton</name>
          <desc>Rue Ernest Renan - 92040</desc>
       </station>
-      <station id="2276" x="5145" y="3755">
+      <station id="2276" x="514" y="624">
          <name>Corvisart</name>
          <desc>Boulevard Auguste Blanqui - 75113</desc>
       </station>
-      <station id="2280" x="6389" y="3911">
+      <station id="2280" x="638" y="608">
          <name>Cour Saint-Emilion</name>
          <desc>Cour Chamonard - 75112</desc>
       </station>
-      <station id="2284" x="3541" y="5984">
+      <station id="2284" x="354" y="401">
          <name>Courcelles</name>
          <desc>Boulevard de Courcelles - 75108</desc>
       </station>
-      <station id="2288" x="6159" y="5536">
+      <station id="2288" x="615" y="446">
          <name>Couronnes</name>
          <desc>Belleville 37 boulevard de - 75111</desc>
       </station>
-      <station id="2292" x="8498" y="2255">
+      <station id="2292" x="849" y="774">
          <name>Créteil-L'Echat Hôpital Henri Mondor</name>
          <desc>Voie Félix Eboué - 94028</desc>
       </station>
-      <station id="2296" x="8830" y="1495">
+      <station id="2296" x="883" y="850">
          <name>Créteil-Préfecture Hôtel de Ville</name>
          <desc>Le Mont-Mesly - 94028</desc>
       </station>
-      <station id="2300" x="8542" y="1945">
+      <station id="2300" x="854" y="805">
          <name>Créteil-Université</name>
          <desc>Rue Ferdinand de Lesseps - 94028</desc>
       </station>
-      <station id="2304" x="6032" y="6481">
+      <station id="2304" x="603" y="351">
          <name>Crimée</name>
          <desc>Rue de Crimée - 75119</desc>
       </station>
-      <station id="2308" x="8035" y="5025">
+      <station id="2308" x="803" y="497">
          <name>Croix-de-Chavaux Jacques Duclos</name>
          <desc>Rue de Paris - 93048</desc>
       </station>
-      <station id="2312" x="6591" y="6105">
+      <station id="2312" x="659" y="389">
          <name>Danube</name>
          <desc>Rhin et Danube 9 place de - 75119</desc>
       </station>
-      <station id="2316" x="6670" y="4198">
+      <station id="2316" x="667" y="580">
          <name>Daumesnil Félix Eboué</name>
          <desc>Place Félix Eboué - 75112</desc>
       </station>
-      <station id="2320" x="4521" y="3955">
+      <station id="2320" x="452" y="604">
          <name>Denfert-Rochereau</name>
          <desc>2 avenue du Général Leclerc - 75114</desc>
       </station>
-      <station id="2324" x="6458" y="4162">
+      <station id="2324" x="645" y="583">
          <name>Dugommier</name>
          <desc>3 boulevard de Reuilly - 75112</desc>
       </station>
-      <station id="2328" x="3214" y="4682">
+      <station id="2328" x="321" y="531">
          <name>Dupleix</name>
          <desc>Boulevard de Grenelle - 75115</desc>
       </station>
-      <station id="2332" x="3990" y="4528">
+      <station id="2332" x="399" y="547">
          <name>Duroc</name>
          <desc>bd du Montparnasse - 75107</desc>
       </station>
-      <station id="2336" x="3614" y="4856">
+      <station id="2336" x="361" y="514">
          <name>Ecole Militaire</name>
          <desc>Avenue Duquesne - 75107</desc>
       </station>
-      <station id="2340" x="7553" y="3088">
+      <station id="2340" x="755" y="691">
          <name>Ecole Vétérinaire de Maisons-Alfort</name>
          <desc>Musée Fragonard - 94046</desc>
       </station>
-      <station id="2344" x="4324" y="4238">
+      <station id="2344" x="432" y="576">
          <name>Edgar-Quinet</name>
          <desc>Place Edgar Quinet - 75114</desc>
       </station>
-      <station id="2348" x="2395" y="4553">
+      <station id="2348" x="239" y="544">
          <name>Eglise d'Auteuil</name>
          <desc>20 rue Wilhem - 75116</desc>
       </station>
-      <station id="2352" x="7257" y="6632">
+      <station id="2352" x="725" y="336">
          <name>Eglise de Pantin</name>
          <desc>Rue Charles Auffrey - 93055</desc>
       </station>
-      <station id="2356" x="1732" y="6394">
+      <station id="2356" x="173" y="360">
          <name>Esplanade de la Défense</name>
          <desc>Quartier Saisons - 92062</desc>
       </station>
-      <station id="2360" x="5090" y="5282">
+      <station id="2360" x="509" y="471">
          <name>Etienne Marcel</name>
          <desc>14 rue Turbigo - 75101</desc>
       </station>
-      <station id="2364" x="4208" y="5975">
+      <station id="2364" x="420" y="402">
          <name>Europe</name>
          <desc>1 rue de Madrid - 75108</desc>
       </station>
-      <station id="2368" x="2078" y="4344">
+      <station id="2368" x="207" y="565">
          <name>Exelmans</name>
          <desc>Hôpital Henry Dunant - 75116</desc>
       </station>
-      <station id="2372" x="6291" y="4667">
+      <station id="2372" x="629" y="533">
          <name>Faidherbe-Chaligny</name>
          <desc>Hôpital St-Antoine - 75111</desc>
       </station>
-      <station id="2376" x="4025" y="4408">
+      <station id="2376" x="402" y="559">
          <name>Falguière</name>
          <desc>138 rue du Cherche-Midi - 75115</desc>
       </station>
-      <station id="2380" x="3166" y="4340">
+      <station id="2380" x="316" y="565">
          <name>Félix Faure</name>
          <desc>Place Félix Faure - 75115</desc>
       </station>
-      <station id="2384" x="5692" y="5254">
+      <station id="2384" x="569" y="474">
          <name>Filles du Calvaire</name>
          <desc>Musée Picasso - 75103</desc>
       </station>
-      <station id="2388" x="6940" y="7554">
+      <station id="2388" x="694" y="244">
          <name>Fort d'Aubervilliers</name>
          <desc>Gare routière - 93001</desc>
       </station>
-      <station id="2392" x="3777" y="5521">
+      <station id="2392" x="377" y="447">
          <name>Franklin-Roosevelt</name>
          <desc>Palais de la Découverte - 75108</desc>
       </station>
-      <station id="2396" x="5641" y="7220">
+      <station id="2396" x="564" y="277">
          <name>Front Populaire</name>
          <desc>Place du Front Populaire - 93001</desc>
       </station>
-      <station id="2400" x="3237" y="7667">
+      <station id="2400" x="323" y="233">
          <name>Gabriel-Péri</name>
          <desc>Gare routière - 92004</desc>
       </station>
-      <station id="2404" x="4192" y="4156">
+      <station id="2404" x="419" y="584">
          <name>Gaîté</name>
          <desc>Rue de la Gaîté - 75114</desc>
       </station>
-      <station id="2408" x="7361" y="5262">
+      <station id="2408" x="736" y="473">
          <name>Gallieni Parc de Bagnolet</name>
          <desc>Gare routière - 93006</desc>
       </station>
-      <station id="2412" x="6770" y="5342">
+      <station id="2412" x="677" y="465">
          <name>Gambetta</name>
          <desc>Père-Lachaise - 75120</desc>
       </station>
-      <station id="2416" x="5605" y="4367">
+      <station id="2416" x="560" y="563">
          <name>Gare d'Austerlitz</name>
          <desc>SNCF/RER C grandes lignes et banlieue - 75113</desc>
       </station>
-      <station id="2420" x="5429" y="5856">
+      <station id="2420" x="542" y="414">
          <name>Gare de l'Est Verdun</name>
          <desc>Sortie - 75110</desc>
       </station>
-      <station id="2424" x="5908" y="4423">
+      <station id="2424" x="590" y="557">
          <name>Gare de Lyon</name>
          <desc>Rue de Bercy - 75112</desc>
       </station>
-      <station id="2428" x="5280" y="6006">
+      <station id="2428" x="528" y="399">
          <name>Gare du Nord</name>
          <desc>Rue du Faubourg St Denis - 75110</desc>
       </station>
-      <station id="2432" x="4511" y="7207">
+      <station id="2432" x="451" y="279">
          <name>Garibaldi</name>
          <desc>Avenue Gabriel Péri - 93070</desc>
       </station>
-      <station id="2436" x="3456" y="5658">
+      <station id="2436" x="345" y="434">
          <name>George V</name>
          <desc>118 avenue des Champs-Elysées - 75108</desc>
       </station>
-      <station id="2440" x="4891" y="3818">
+      <station id="2440" x="489" y="618">
          <name>Glacière</name>
          <desc>Face au 124 boulevard Auguste Blanqui - 75113</desc>
       </station>
-      <station id="2444" x="5828" y="5567">
+      <station id="2444" x="582" y="443">
          <name>Goncourt Hôpital Saint-Louis</name>
          <desc>152 avenue Parmentier - 75110</desc>
       </station>
-      <station id="2448" x="4894" y="5634">
+      <station id="2448" x="489" y="436">
          <name>Grands Boulevards</name>
          <desc>Musée Grévin - 75109</desc>
       </station>
-      <station id="2452" x="4362" y="6604">
+      <station id="2452" x="436" y="339">
          <name>Guy-Môquet</name>
          <desc>86 avenue de Saint-Ouen - 75118</desc>
       </station>
-      <station id="2456" x="4395" y="5722">
+      <station id="2456" x="439" y="427">
          <name>Havre-Caumartin</name>
          <desc>bd Haussmann - 75109</desc>
       </station>
-      <station id="2460" x="6925" y="6536">
+      <station id="2460" x="692" y="346">
          <name>Hoche</name>
          <desc>Centre Commercial - 93055</desc>
       </station>
-      <station id="2464" x="5195" y="4996">
+      <station id="2464" x="519" y="500">
          <name>Hôtel de Ville</name>
          <desc>Rue du Renard - 75104</desc>
       </station>
-      <station id="2468" x="3228" y="5311">
+      <station id="2468" x="322" y="468">
          <name>Iéna</name>
          <desc>av. du Président Wilson - 75116</desc>
       </station>
-      <station id="2472" x="3923" y="5153">
+      <station id="2472" x="392" y="484">
          <name>Invalides</name>
          <desc>Rue de l' Université - 75107</desc>
       </station>
-      <station id="2476" x="5483" y="5598">
+      <station id="2476" x="548" y="440">
          <name>Jacques-Bonsergent</name>
          <desc>bd de Magenta - 75110</desc>
       </station>
-      <station id="2480" x="2343" y="4774">
+      <station id="2480" x="234" y="522">
          <name>Jasmin</name>
          <desc>85 avenue Mozart - 75116</desc>
       </station>
-      <station id="2484" x="5800" y="6142">
+      <station id="2484" x="580" y="385">
          <name>Jaurès</name>
          <desc>Face au 2 place de Stalingrad - 75119</desc>
       </station>
-      <station id="2488" x="2677" y="4482">
+      <station id="2488" x="267" y="551">
          <name>Javel-André-Citroen</name>
          <desc>Rue de la Convention - 75115</desc>
       </station>
-      <station id="2492" x="6458" y="5803">
+      <station id="2492" x="645" y="419">
          <name>Jourdain</name>
          <desc>7 rue du Jourdain - 75120</desc>
       </station>
-      <station id="2496" x="4932" y="6581">
+      <station id="2496" x="493" y="341">
          <name>Jules Joffrin</name>
          <desc>2 place Jules Joffrin - 75118</desc>
       </station>
-      <station id="2500" x="5287" y="4482">
+      <station id="2500" x="528" y="551">
          <name>Jussieu</name>
          <desc>39 rue Liné - 75105</desc>
       </station>
-      <station id="2504" x="3203" y="5625">
+      <station id="2504" x="320" y="437">
          <name>Kléber</name>
          <desc>15 avenue Kléber - 75116</desc>
       </station>
-      <station id="2508" x="5439" y="6215">
+      <station id="2508" x="543" y="378">
          <name>La Chapelle</name>
          <desc>Rue du Faubourg Saint Denis - 75110</desc>
       </station>
-      <station id="2512" x="7166" y="7845">
+      <station id="2512" x="716" y="215">
          <name>La Courneuve-8-Mai-1945</name>
          <desc>Place du 8 Mai 1945 - 93027</desc>
       </station>
-      <station id="2516" x="1328" y="6551">
+      <station id="2516" x="132" y="344">
          <name>La Défense Grande Arche</name>
          <desc>Carpeaux rue. gare du RER La Défense - 92062</desc>
       </station>
-      <station id="2520" x="4302" y="6353">
+      <station id="2520" x="430" y="364">
          <name>La Fourche</name>
          <desc>Avenue de Clichy - 75117</desc>
       </station>
-      <station id="2524" x="3354" y="4620">
+      <station id="2524" x="335" y="537">
          <name>La Motte-Picquet-Grenelle</name>
          <desc>Face au 130-113 boulevard de Grenelle - 75115</desc>
       </station>
-      <station id="2528" x="2551" y="5029">
+      <station id="2528" x="255" y="497">
          <name>La Muette</name>
          <desc>5 avenue Mozart - 75116</desc>
       </station>
-      <station id="2532" x="3762" y="4990">
+      <station id="2532" x="376" y="500">
          <name>La Tour-Maubourg</name>
          <desc>Les Invalides Tombeau de l'Empereur - Musée de l'Armée - 75107</desc>
       </station>
-      <station id="2536" x="4757" y="6456">
+      <station id="2536" x="475" y="354">
          <name>Lamarck-Caulaincourt</name>
          <desc>Lamarck 53/53 bis rue - 75118</desc>
       </station>
-      <station id="2540" x="6110" y="6240">
+      <station id="2540" x="611" y="375">
          <name>Laumière</name>
          <desc>av. Jean Jaurès - 75119</desc>
       </station>
-      <station id="2544" x="5525" y="2877">
+      <station id="2544" x="552" y="712">
          <name>Le Kremlin-Bicêtre</name>
          <desc>Hôpital Kremlin Bicêtre - 94043</desc>
       </station>
-      <station id="2548" x="4791" y="5790">
+      <station id="2548" x="479" y="420">
          <name>Le Peletier</name>
          <desc>Rue de la Victoire - 75109</desc>
       </station>
-      <station id="2552" x="6003" y="4718">
+      <station id="2552" x="600" y="528">
          <name>Ledru-Rollin</name>
          <desc>Rue Traversière - 75112</desc>
       </station>
-      <station id="2556" x="2954" y="7953">
+      <station id="2556" x="295" y="204">
          <name>Les Agnettes</name>
          <desc>Angle rue des Bas et Rue Louis Calmel - 92004</desc>
       </station>
-      <station id="2560" x="5195" y="4038">
+      <station id="2560" x="519" y="596">
          <name>Les Gobelins</name>
          <desc>Manufacture des Gobelins - 75113</desc>
       </station>
-      <station id="2564" x="5005" y="5206">
+      <station id="2564" x="500" y="479">
          <name>Les Halles</name>
          <desc>Rue Turbigo - 75101</desc>
       </station>
-      <station id="2568" x="2477" y="6076">
+      <station id="2568" x="247" y="392">
          <name>Les Sablons Jardin d'acclimatation</name>
          <desc>Jardin d'Acclimatation - 92051</desc>
       </station>
-      <station id="2572" x="7070" y="3565">
+      <station id="2572" x="707" y="643">
          <name>Liberté</name>
          <desc>Rue de Paris - 94018</desc>
       </station>
-      <station id="2576" x="4340" y="5996">
+      <station id="2576" x="434" y="400">
          <name>Liège</name>
          <desc>Terre-plein face au 21 rue de Liège - 75108</desc>
       </station>
-      <station id="2580" x="5636" y="6058">
+      <station id="2580" x="563" y="394">
          <name>Louis Blanc</name>
          <desc>234 rue du Faubourg Saint-Martin - 75110</desc>
       </station>
-      <station id="2584" x="3025" y="6435">
+      <station id="2584" x="302" y="356">
          <name>Louise Michel</name>
          <desc>Rue Anatole France - 92044</desc>
       </station>
-      <station id="2588" x="2828" y="4153">
+      <station id="2588" x="282" y="584">
          <name>Lourmel</name>
          <desc>Avenue Felix Faure - 75115</desc>
       </station>
-      <station id="2592" x="4818" y="5155">
+      <station id="2592" x="481" y="484">
          <name>Louvre-Rivoli</name>
          <desc>Amiral de Coligny 8 rue de l' - 75101</desc>
       </station>
-      <station id="2596" x="4621" y="4792">
+      <station id="2596" x="462" y="520">
          <name>Mabillon</name>
          <desc>Place d' Arcadie - 75106</desc>
       </station>
-      <station id="2600" x="4264" y="5557">
+      <station id="2600" x="426" y="444">
          <name>Madeleine</name>
          <desc>Rue De Sèze - 75108</desc>
       </station>
-      <station id="2604" x="2533" y="3507">
+      <station id="2604" x="253" y="649">
          <name>Mairie d'Issy</name>
          <desc>Rue du Général Leclerc - 92040</desc>
       </station>
-      <station id="2608" x="6260" y="2914">
+      <station id="2608" x="626" y="708">
          <name>Mairie d'Ivry</name>
          <desc>Centre Commercial - 94041</desc>
       </station>
-      <station id="2612" x="3611" y="7100">
+      <station id="2612" x="361" y="289">
          <name>Mairie de Clichy</name>
          <desc>Hôpital Gouin - 92024</desc>
       </station>
-      <station id="2616" x="8237" y="5218">
+      <station id="2616" x="823" y="478">
          <name>Mairie de Montreuil</name>
          <desc>Place Jean Jaurès - 93048</desc>
       </station>
-      <station id="2620" x="4095" y="3241">
+      <station id="2620" x="409" y="675">
          <name>Mairie de Montrouge</name>
          <desc>Rue Louis Rolland - 92049</desc>
       </station>
-      <station id="2624" x="4573" y="7444">
+      <station id="2624" x="457" y="255">
          <name>Mairie de Saint-Ouen</name>
          <desc>Place de la République - 93070</desc>
       </station>
-      <station id="2628" x="7350" y="6019">
+      <station id="2628" x="735" y="398">
          <name>Mairie des Lilas</name>
          <desc>Place du Colonel Fabien - 93045</desc>
       </station>
-      <station id="2632" x="5398" y="3440">
+      <station id="2632" x="539" y="655">
          <name>Maison Blanche</name>
          <desc>144 avenue d' Italie - 75113</desc>
       </station>
-      <station id="2636" x="8385" y="2521">
+      <station id="2636" x="838" y="747">
          <name>Maisons-Alfort-Les Juilliottes</name>
          <desc>Avenue du Général Leclerc - 94046</desc>
       </station>
-      <station id="2640" x="8049" y="2779">
+      <station id="2640" x="804" y="722">
          <name>Maisons-Alfort-Stade</name>
          <desc>26-28 avenue du Général Leclerc - 94046</desc>
       </station>
-      <station id="2644" x="3359" y="3421">
+      <station id="2644" x="335" y="657">
          <name>Malakoff-Plateau de Vanves</name>
          <desc>r. Jean Bleuzen - 92020</desc>
       </station>
-      <station id="2648" x="3337" y="3072">
+      <station id="2648" x="333" y="692">
          <name>Malakoff-Rue Etienne Dolet</name>
          <desc>87 rue Guy Môquet - 92020</desc>
       </station>
-      <station id="2652" x="3803" y="6132">
+      <station id="2652" x="380" y="386">
          <name>Malesherbes</name>
          <desc>Place du Général Catroux - 75117</desc>
       </station>
-      <station id="2656" x="7036" y="4781">
+      <station id="2656" x="703" y="521">
          <name>Maraîchers</name>
          <desc>67 bis rue des Pyrénées - 75120</desc>
       </station>
-      <station id="2660" x="5103" y="6538">
+      <station id="2660" x="510" y="346">
          <name>Marcadet-Poissonniers</name>
          <desc>88 boulevard Barbès - 75118</desc>
       </station>
-      <station id="2664" x="1514" y="3933">
+      <station id="2664" x="151" y="606">
          <name>Marcel Sembat</name>
          <desc>Rue des Quatre Cheminées - 92012</desc>
       </station>
-      <station id="2668" x="5456" y="6485">
+      <station id="2668" x="545" y="351">
          <name>Marx-Dormoy</name>
          <desc>4 rue de la Chapelle - 75118</desc>
       </station>
-      <station id="2672" x="5088" y="4651">
+      <station id="2672" x="508" y="534">
          <name>Maubert-Mutualité</name>
          <desc>Panthéon - 75105</desc>
       </station>
-      <station id="2676" x="6291" y="5372">
+      <station id="2676" x="629" y="462">
          <name>Ménilmontant</name>
          <desc>Ménilmontant 139/148 boulevard de - 75111</desc>
       </station>
-      <station id="2680" x="6918" y="4077">
+      <station id="2680" x="691" y="592">
          <name>Michel Bizot</name>
          <desc>Avenue Daumesnil - 75112</desc>
       </station>
-      <station id="2684" x="2217" y="4570">
+      <station id="2684" x="221" y="542">
          <name>Michel-Ange-Auteuil</name>
          <desc>55 rue d' Auteuil - 75116</desc>
       </station>
-      <station id="2688" x="2138" y="4441">
+      <station id="2688" x="213" y="555">
          <name>Michel-Ange-Molitor</name>
          <desc>34 rue Molitor - 75116</desc>
       </station>
-      <station id="2692" x="2517" y="4532">
+      <station id="2692" x="251" y="546">
          <name>Mirabeau</name>
          <desc>63 avenue de Versailles - 75116</desc>
       </station>
-      <station id="2696" x="3973" y="5722">
+      <station id="2696" x="397" y="427">
          <name>Miromesnil</name>
          <desc>29 rue de la Boétie - 75108</desc>
       </station>
-      <station id="2700" x="3749" y="6043">
+      <station id="2700" x="374" y="395">
          <name>Monceau</name>
          <desc>1 Place de la République Dominicaine - 75108</desc>
       </station>
-      <station id="2704" x="6468" y="4400">
+      <station id="2704" x="646" y="559">
          <name>Montgallet</name>
          <desc>68 rue de Reuilly - 75112</desc>
       </station>
-      <station id="2708" x="4142" y="4306">
+      <station id="2708" x="414" y="569">
          <name>Montparnasse-Bienvenue</name>
          <desc>Raoul Dautry place. SNCF Montparnasse - 75114</desc>
       </station>
-      <station id="2712" x="4460" y="3861">
+      <station id="2712" x="446" y="613">
          <name>Mouton-Duvernet</name>
          <desc>42 avenue du Général Leclerc - 75114</desc>
       </station>
-      <station id="2716" x="6740" y="4619">
+      <station id="2716" x="674" y="538">
          <name>Nation</name>
          <desc>Terre-plein face au 3 place de la Nation - 75112</desc>
       </station>
-      <station id="2720" x="5528" y="3892">
+      <station id="2720" x="552" y="610">
          <name>Nationale</name>
          <desc>Terre-plein face au 124-143 boulevard Vincent Auriol - 75113</desc>
       </station>
-      <station id="2724" x="4714" y="5839">
+      <station id="2724" x="471" y="416">
          <name>Notre-Dame de Lorette</name>
          <desc>Rue de Chateaudun - 75109</desc>
       </station>
-      <station id="2728" x="4394" y="4429">
+      <station id="2728" x="439" y="557">
          <name>Notre-Dame des Champs</name>
          <desc>Terre-plein face au 112 boulevard Raspail - 75106</desc>
       </station>
-      <station id="2732" x="5722" y="5339">
+      <station id="2732" x="572" y="466">
          <name>Oberkampf</name>
          <desc>43 boulevard Voltaire - 75111</desc>
       </station>
-      <station id="2736" x="4747" y="4768">
+      <station id="2736" x="474" y="523">
          <name>Odéon</name>
          <desc>Carrefour de l' Odéon - 75106</desc>
       </station>
-      <station id="2740" x="5702" y="3624">
+      <station id="2740" x="570" y="637">
          <name>Olympiades</name>
          <desc>Rue de Tolbiac - 75113</desc>
       </station>
-      <station id="2744" x="4533" y="5591">
+      <station id="2744" x="453" y="440">
          <name>Opéra</name>
          <desc>Théâtre National de l'Opéra - 75109</desc>
       </station>
-      <station id="2748" x="6367" y="6330">
+      <station id="2748" x="636" y="366">
          <name>Ourcq</name>
          <desc>161 avenue Jean Jaurès - 75119</desc>
       </station>
-      <station id="2752" x="4632" y="5268">
+      <station id="2752" x="463" y="473">
          <name>Palais-Royal Musée du Louvre</name>
          <desc>Terre-plein face au 93 rue de Rivoli - 75101</desc>
       </station>
-      <station id="2756" x="5964" y="5352">
+      <station id="2756" x="596" y="464">
          <name>Parmentier</name>
          <desc>48 avenue de la République - 75111</desc>
       </station>
-      <station id="2760" x="2941" y="5004">
+      <station id="2760" x="294" y="499">
          <name>Passy</name>
          <desc>pl. du Costa Rica - 75116</desc>
       </station>
-      <station id="2764" x="3880" y="4304">
+      <station id="2764" x="388" y="569">
          <name>Pasteur</name>
          <desc>183 rue de Vaugirard - 75115</desc>
       </station>
-      <station id="2768" x="6864" y="5486">
+      <station id="2768" x="686" y="451">
          <name>Pelleport</name>
          <desc>Paul Signac place. en face du 125 avenue Gambetta - 75120</desc>
       </station>
-      <station id="2772" x="6387" y="5258">
+      <station id="2772" x="638" y="474">
          <name>Père-Lachaise</name>
          <desc>Avenue de la République - 75111</desc>
       </station>
-      <station id="2776" x="3332" y="6244">
+      <station id="2776" x="333" y="375">
          <name>Pereire</name>
          <desc>Square Albert Besnard - 75117</desc>
       </station>
-      <station id="2780" x="4037" y="3939">
+      <station id="2780" x="403" y="606">
          <name>Pernety</name>
          <desc>Rue Niepce - 75114</desc>
       </station>
-      <station id="2784" x="6471" y="5042">
+      <station id="2784" x="647" y="495">
          <name>Philippe Auguste</name>
          <desc>212 boulevard de Charonne - 75111</desc>
       </station>
-      <station id="2788" x="6880" y="4453">
+      <station id="2788" x="688" y="554">
          <name>Picpus</name>
          <desc>46 avenue de Saint-Mandé - 75112</desc>
       </station>
-      <station id="2792" x="6069" y="3126">
+      <station id="2792" x="606" y="687">
          <name>Pierre et Marie Curie</name>
          <desc>117-119 avenue Maurice Thorez - 94041</desc>
       </station>
-      <station id="2796" x="4692" y="6126">
+      <station id="2796" x="469" y="387">
          <name>Pigalle</name>
          <desc>26 boulevard de Clichy - 75118</desc>
       </station>
-      <station id="2800" x="5305" y="3832">
+      <station id="2800" x="530" y="616">
          <name>Place d'Italie</name>
          <desc>Place d' Italie - 75113</desc>
       </station>
-      <station id="2804" x="4354" y="6162">
+      <station id="2804" x="435" y="383">
          <name>Place de Clichy</name>
          <desc>Terre-plein face au 7 place de Clichy - 75109</desc>
       </station>
-      <station id="2808" x="6587" y="5870">
+      <station id="2808" x="658" y="412">
          <name>Place des Fêtes</name>
          <desc>Rue de Crimée - 75119</desc>
       </station>
-      <station id="2812" x="5196" y="4356">
+      <station id="2812" x="519" y="564">
          <name>Place Monge Jardin des Plantes</name>
          <desc>Arènes de Lutèce - 75105</desc>
       </station>
-      <station id="2816" x="3900" y="3841">
+      <station id="2816" x="390" y="615">
          <name>Plaisance</name>
          <desc>Rue Raymond Losserand - 75114</desc>
       </station>
-      <station id="2820" x="9000" y="999">
+      <station id="2820" x="900" y="900">
          <name>Pointe du Lac</name>
          <desc>avenue François Mitterrand - 94028</desc>
       </station>
-      <station id="2824" x="5103" y="5898">
+      <station id="2824" x="510" y="410">
          <name>Poissonnière</name>
          <desc>Terre-plein face au 96/98 rue La Fayette - 75110</desc>
       </station>
-      <station id="2828" x="2778" y="6798">
+      <station id="2828" x="277" y="320">
          <name>Pont de Levallois-Bécon</name>
          <desc>Rue Baudin - 92044</desc>
       </station>
-      <station id="2832" x="2024" y="6266">
+      <station id="2832" x="202" y="373">
          <name>Pont de Neuilly</name>
          <desc>209 avenue Charles de Gaulle - 92051</desc>
       </station>
-      <station id="2836" x="1075" y="3748">
+      <station id="2836" x="107" y="625">
          <name>Pont de Sèvres</name>
          <desc>quai Alphonse Le Gallo - 92012</desc>
       </station>
-      <station id="2840" x="5375" y="4820">
+      <station id="2840" x="537" y="517">
          <name>Pont Marie Cité des Arts</name>
          <desc>quai de l'Hôtel de Ville - 75104</desc>
       </station>
-      <station id="2844" x="4857" y="5049">
+      <station id="2844" x="485" y="495">
          <name>Pont Neuf</name>
          <desc>quai du Louvre - 75101</desc>
       </station>
-      <station id="2848" x="1996" y="4584">
+      <station id="2848" x="199" y="541">
          <name>Porte d'Auteuil</name>
          <desc>Route des Lacs - 75116</desc>
       </station>
-      <station id="2852" x="5480" y="3253">
+      <station id="2852" x="548" y="674">
          <name>Porte d'Italie</name>
          <desc>Boulevard Masséna - 75113</desc>
       </station>
-      <station id="2856" x="5779" y="3372">
+      <station id="2856" x="577" y="662">
          <name>Porte d'Ivry</name>
          <desc>Avenue d'Ivry - 75113</desc>
       </station>
-      <station id="2860" x="4279" y="3438">
+      <station id="2860" x="427" y="656">
          <name>Porte d'Orléans Général Leclerc</name>
          <desc>Rue de la Légion Etrangère - 75114</desc>
       </station>
-      <station id="2864" x="2578" y="5647">
+      <station id="2864" x="257" y="435">
          <name>Porte Dauphine Maréchal de Lattre de Tassigny</name>
          <desc>Boulevard Amiral Bruix - 75116</desc>
       </station>
-      <station id="2868" x="7118" y="5311">
+      <station id="2868" x="711" y="468">
          <name>Porte de Bagnolet</name>
          <desc>Rue de la Py - 75120</desc>
       </station>
-      <station id="2872" x="3154" y="6276">
+      <station id="2872" x="315" y="372">
          <name>Porte de Champerret</name>
          <desc>Place Stuart-Merrill - 75117</desc>
       </station>
-      <station id="2876" x="6835" y="3882">
+      <station id="2876" x="683" y="611">
          <name>Porte de Charenton</name>
          <desc>68 Boulevard Poniatowsky - 75112</desc>
       </station>
-      <station id="2880" x="5632" y="3306">
+      <station id="2880" x="563" y="669">
          <name>Porte de Choisy</name>
          <desc>130 boulevard Masséna - 75113</desc>
       </station>
-      <station id="2884" x="3889" y="6668">
+      <station id="2884" x="388" y="333">
          <name>Porte de Clichy</name>
          <desc>2 avenue de la Porte de Clichy - 75117</desc>
       </station>
-      <station id="2888" x="4921" y="6828">
+      <station id="2888" x="492" y="317">
          <name>Porte de Clignancourt</name>
          <desc>Rue Belliard - 75118</desc>
       </station>
-      <station id="2892" x="5438" y="6827">
+      <station id="2892" x="543" y="317">
          <name>Porte de la Chapelle</name>
          <desc>Rue Raymond Queneau - 75118</desc>
       </station>
-      <station id="2896" x="6333" y="6808">
+      <station id="2896" x="633" y="319">
          <name>Porte de la Villette</name>
          <desc>Cité des Sciences - La Géode - Le Zénith - 75119</desc>
       </station>
-      <station id="2900" x="7174" y="4816">
+      <station id="2900" x="717" y="518">
          <name>Porte de Montreuil</name>
          <desc>Rue d'Avron - 75120</desc>
       </station>
-      <station id="2904" x="6562" y="6404">
+      <station id="2904" x="656" y="359">
          <name>Porte de Pantin</name>
          <desc>Avenue Jean Jaurès - 75119</desc>
       </station>
-      <station id="2908" x="1924" y="4103">
+      <station id="2908" x="192" y="589">
          <name>Porte de Saint-Cloud</name>
          <desc>Place de la Porte de Saint-Cloud - 75116</desc>
       </station>
-      <station id="2912" x="4413" y="6807">
+      <station id="2912" x="441" y="319">
          <name>Porte de Saint-Ouen</name>
          <desc>Rue Liebniz - 75118</desc>
       </station>
-      <station id="2916" x="3576" y="3661">
+      <station id="2916" x="357" y="633">
          <name>Porte de Vanves</name>
          <desc>9 boulevard Brune - 75114</desc>
       </station>
-      <station id="2920" x="3018" y="3863">
+      <station id="2920" x="301" y="613">
          <name>Porte de Versailles</name>
          <desc>Palais des Sports - 75115</desc>
       </station>
-      <station id="2924" x="7186" y="4529">
+      <station id="2924" x="718" y="547">
          <name>Porte de Vincennes</name>
          <desc>99 Cours de Vincennes - 75120</desc>
       </station>
-      <station id="2928" x="7035" y="5879">
+      <station id="2928" x="703" y="412">
          <name>Porte des Lilas</name>
          <desc>Rue de Belleville - 75120</desc>
       </station>
-      <station id="2932" x="7029" y="4010">
+      <station id="2932" x="702" y="598">
          <name>Porte Dorée</name>
          <desc>Place Edouard Renard - 75112</desc>
       </station>
-      <station id="2936" x="2835" y="5927">
+      <station id="2936" x="283" y="407">
          <name>Porte Maillot</name>
          <desc>Palais des Congrès - 75117</desc>
       </station>
-      <station id="2940" x="6771" y="6024">
+      <station id="2940" x="677" y="397">
          <name>Pré-Saint-Gervais</name>
          <desc>Serrurier 52 boulevard - 75119</desc>
       </station>
-      <station id="2944" x="4585" y="5408">
+      <station id="2944" x="458" y="459">
          <name>Pyramides</name>
          <desc>Rue de l'Echelle - 75101</desc>
       </station>
-      <station id="2948" x="6307" y="5738">
+      <station id="2948" x="630" y="426">
          <name>Pyrénées</name>
          <desc>401 rue des Pyrénées - 75120</desc>
       </station>
-      <station id="2952" x="5933" y="4105">
+      <station id="2952" x="593" y="589">
          <name>Quai de la Gare</name>
          <desc>Quai de la Gare - 75113</desc>
       </station>
-      <station id="2956" x="5698" y="4482">
+      <station id="2956" x="569" y="551">
          <name>Quai de la Rapée</name>
          <desc>Quai de la Rapée - 75112</desc>
       </station>
-      <station id="2960" x="4661" y="5551">
+      <station id="2960" x="466" y="444">
          <name>Quatre Septembre</name>
          <desc>20 rue du Quatre Septembre - 75102</desc>
       </station>
-      <station id="2964" x="5236" y="5169">
+      <station id="2964" x="523" y="483">
          <name>Rambuteau</name>
          <desc>Centre Georges Pompidou - 75104</desc>
       </station>
-      <station id="2968" x="2411" y="4912">
+      <station id="2968" x="241" y="508">
          <name>Ranelagh</name>
          <desc>48 avenue Mozart - 75116</desc>
       </station>
-      <station id="2972" x="4462" y="4175">
+      <station id="2972" x="446" y="582">
          <name>Raspail</name>
          <desc>Boulevard Edgard Quinet - 75114</desc>
       </station>
-      <station id="2976" x="5213" y="5388">
+      <station id="2976" x="521" y="461">
          <name>Réaumur-Sébastopol</name>
          <desc>Square Emile Chantemps - 75102</desc>
       </station>
-      <station id="2980" x="4379" y="4583">
+      <station id="2980" x="437" y="541">
          <name>Rennes</name>
          <desc>Terre-plein face au 78 boulevard Raspail - 75106</desc>
       </station>
-      <station id="2984" x="5585" y="5449">
+      <station id="2984" x="558" y="455">
          <name>République</name>
          <desc>Av de la République - 75111</desc>
       </station>
-      <station id="2988" x="6339" y="4544">
+      <station id="2988" x="633" y="545">
          <name>Reuilly-Diderot</name>
          <desc>Boulevard Diderot - 75112</desc>
       </station>
-      <station id="2992" x="5884" y="5146">
+      <station id="2992" x="588" y="485">
          <name>Richard-Lenoir</name>
          <desc>Boulevard Richar Lenoir - 75111</desc>
       </station>
-      <station id="2996" x="4763" y="5661">
+      <station id="2996" x="476" y="433">
          <name>Richelieu-Drouot</name>
          <desc>Rue Marivaux - 75109</desc>
       </station>
-      <station id="3000" x="5953" y="6396">
+      <station id="3000" x="595" y="360">
          <name>Riquet</name>
          <desc>Avenue de Flandre - 75119</desc>
       </station>
-      <station id="3004" x="7621" y="4920">
+      <station id="3004" x="762" y="507">
          <name>Robespierre</name>
          <desc>185 rue de Paris - 93048</desc>
       </station>
-      <station id="3008" x="4121" y="6111">
+      <station id="3008" x="412" y="388">
          <name>Rome</name>
          <desc>60 boulevard des Batignolles - 75117</desc>
       </station>
-      <station id="3012" x="2681" y="5307">
+      <station id="3012" x="268" y="469">
          <name>Rue de la Pompe Avenue Georges Mandel</name>
          <desc>56 avenue Georges Mandel - 75116</desc>
       </station>
-      <station id="3016" x="6450" y="4764">
+      <station id="3016" x="645" y="523">
          <name>Rue des Boulets</name>
          <desc>232 boulevard Voltaire - 75111</desc>
       </station>
-      <station id="3020" x="4301" y="4930">
+      <station id="3020" x="430" y="506">
          <name>Rue du Bac</name>
          <desc>Terre-plein face au 2 boulevard Raspail - 75107</desc>
       </station>
-      <station id="3024" x="6172" y="5299">
+      <station id="3024" x="617" y="470">
          <name>Rue Saint-Maur</name>
          <desc>Avenue de la République - 75111</desc>
       </station>
-      <station id="3028" x="5909" y="5189">
+      <station id="3028" x="590" y="481">
          <name>Saint-Ambroise</name>
          <desc>86 boulevard Voltaire - 75111</desc>
       </station>
-      <station id="3032" x="4132" y="5764">
+      <station id="3032" x="413" y="423">
          <name>Saint-Augustin</name>
          <desc>Église Saint-Augustin - 75108</desc>
       </station>
-      <station id="3036" x="5334" y="8269">
+      <station id="3036" x="533" y="173">
          <name>Saint-Denis - Porte de Paris</name>
          <desc>Stade de France - 93066</desc>
       </station>
-      <station id="3040" x="5533" y="8999">
+      <station id="3040" x="553" y="100">
          <name>Saint-Denis-Université</name>
          <desc>Gare Routière - 93066</desc>
       </station>
-      <station id="3044" x="6965" y="5643">
+      <station id="3044" x="696" y="435">
          <name>Saint-Fargeau</name>
          <desc>112 avenue Gambetta - 75120</desc>
       </station>
-      <station id="3048" x="3919" y="4708">
+      <station id="3048" x="391" y="529">
          <name>Saint-François-Xavier</name>
          <desc>Avenue de Villars - 75107</desc>
       </station>
-      <station id="3052" x="4712" y="5954">
+      <station id="3052" x="471" y="404">
          <name>Saint-Georges</name>
          <desc>Place Saint-Georges - 75109</desc>
       </station>
-      <station id="3056" x="4550" y="4819">
+      <station id="3056" x="455" y="518">
          <name>Saint-Germain des Prés</name>
          <desc>Ecole des Beaux Arts - 75106</desc>
       </station>
-      <station id="3060" x="4673" y="3897">
+      <station id="3060" x="467" y="610">
          <name>Saint-Jacques</name>
          <desc>Terre-plein face au 46 boulevard Saint-Jacques - 75114</desc>
       </station>
-      <station id="3064" x="4249" y="5840">
+      <station id="3064" x="424" y="415">
          <name>Saint-Lazare</name>
          <desc>Rue de l' Arcade - 75108</desc>
       </station>
-      <station id="3068" x="7463" y="4494">
+      <station id="3068" x="746" y="550">
          <name>Saint-Mandé</name>
          <desc>180 avenue Galliéni - 94067</desc>
       </station>
-      <station id="3072" x="5488" y="4146">
+      <station id="3072" x="548" y="585">
          <name>Saint-Marcel</name>
          <desc>La Pitié-Salpêtrière - 75113</desc>
       </station>
-      <station id="3076" x="4921" y="4826">
+      <station id="3076" x="492" y="517">
          <name>Saint-Michel</name>
          <desc>Place Saint-Michel - 75105</desc>
       </station>
-      <station id="3080" x="5509" y="4895">
+      <station id="3080" x="550" y="510">
          <name>Saint-Paul Le Marais</name>
          <desc>Rivoli terre plein face au 10 rue de - 75104</desc>
       </station>
-      <station id="3084" x="3795" y="5678">
+      <station id="3084" x="379" y="432">
          <name>Saint-Philippe du Roule</name>
          <desc>69 avenue Franklin D. Roosevelt - 75108</desc>
       </station>
-      <station id="3088" x="4347" y="4529">
+      <station id="3088" x="434" y="547">
          <name>Saint-Placide</name>
          <desc>Rue de Rennes - 75106</desc>
       </station>
-      <station id="3092" x="5710" y="5159">
+      <station id="3092" x="571" y="484">
          <name>Saint-Sébastien-Froissart</name>
          <desc>Rue Froissart - 75103</desc>
       </station>
-      <station id="3096" x="4479" y="4716">
+      <station id="3096" x="447" y="528">
          <name>Saint-Sulpice</name>
          <desc>Rue de Rennes - 75106</desc>
       </station>
-      <station id="3100" x="3676" y="4522">
+      <station id="3100" x="367" y="547">
          <name>Ségur</name>
          <desc>UNESCO - Miollis - 75115</desc>
       </station>
-      <station id="3104" x="5042" y="5447">
+      <station id="3104" x="504" y="455">
          <name>Sentier</name>
          <desc>97 rue Réaumur - 75102</desc>
       </station>
-      <station id="3108" x="4315" y="4706">
+      <station id="3108" x="431" y="529">
          <name>Sèvres-Babylone</name>
          <desc>Square Boucicaut - 75107</desc>
       </station>
-      <station id="3112" x="3798" y="4438">
+      <station id="3112" x="379" y="556">
          <name>Sèvres-Lecourbe</name>
          <desc>Terre-plein face au 94 boulevard Garibaldi - 75115</desc>
       </station>
-      <station id="3116" x="5031" y="6654">
+      <station id="3116" x="503" y="334">
          <name>Simplon</name>
          <desc>38 boulevard Ornano - 75118</desc>
       </station>
-      <station id="3120" x="4212" y="5049">
+      <station id="3120" x="421" y="495">
          <name>Solférino</name>
          <desc>Rue de Solférino - 75107</desc>
       </station>
-      <station id="3124" x="5702" y="6206">
+      <station id="3124" x="570" y="379">
          <name>Stalingrad</name>
          <desc>Bassin de la Villette - 75119</desc>
       </station>
-      <station id="3128" x="5277" y="5550">
+      <station id="3128" x="527" y="444">
          <name>Strasbourg-Saint-Denis</name>
          <desc>Porte Saint-Martin - 75102</desc>
       </station>
-      <station id="3132" x="5505" y="4700">
+      <station id="3132" x="550" y="529">
          <name>Sully-Morland</name>
          <desc>Préfecture de Paris - 75104</desc>
       </station>
-      <station id="3136" x="6774" y="5815">
+      <station id="3136" x="677" y="418">
          <name>Télégraphe</name>
          <desc>Rue de Belleville - 75120</desc>
       </station>
-      <station id="3140" x="5517" y="5420">
+      <station id="3140" x="551" y="457">
          <name>Temple</name>
          <desc>Rue du Temple - 75103</desc>
       </station>
-      <station id="3144" x="3366" y="5937">
+      <station id="3144" x="336" y="406">
          <name>Ternes</name>
          <desc>Salle Pleyel - 75117</desc>
       </station>
-      <station id="3148" x="5362" y="3588">
+      <station id="3148" x="536" y="641">
          <name>Tolbiac</name>
          <desc>Avenue d'Italie - 75113</desc>
       </station>
-      <station id="3152" x="4508" y="5852">
+      <station id="3152" x="450" y="414">
          <name>Trinité-d'Estienne d'Orves</name>
          <desc>50 rue de Chateaudun - 75109</desc>
       </station>
-      <station id="3156" x="2998" y="5235">
+      <station id="3156" x="299" y="476">
          <name>Trocadéro</name>
          <desc>Place du Trocédéro - 75116</desc>
       </station>
-      <station id="3160" x="4416" y="5331">
+      <station id="3160" x="441" y="466">
          <name>Tuileries</name>
          <desc>210 rue de Rivoli - 75101</desc>
       </station>
-      <station id="3164" x="4149" y="4605">
+      <station id="3164" x="414" y="539">
          <name>Vaneau</name>
          <desc>97 rue de Sèvres - 75107</desc>
       </station>
-      <station id="3168" x="3930" y="4952">
+      <station id="3168" x="393" y="504">
          <name>Varenne</name>
          <desc>13 boulevard des Invalides - 75107</desc>
       </station>
-      <station id="3172" x="3466" y="4187">
+      <station id="3172" x="346" y="581">
          <name>Vaugirard Adolphe Chérioux</name>
          <desc>Square de Vergenne - 75115</desc>
       </station>
-      <station id="3176" x="4408" y="4306">
+      <station id="3176" x="440" y="569">
          <name>Vavin</name>
          <desc>108 boulevard du Montparnasse - 75106</desc>
       </station>
-      <station id="3180" x="2929" y="5560">
+      <station id="3180" x="292" y="443">
          <name>Victor Hugo</name>
          <desc>4 place Victor Hugo - 75116</desc>
       </station>
-      <station id="3184" x="5596" y="2578">
+      <station id="3184" x="559" y="742">
          <name>Villejuif-Léo Lagrange</name>
          <desc>Rue du Dauphin - 94076</desc>
       </station>
-      <station id="3188" x="5704" y="1806">
+      <station id="3188" x="570" y="819">
          <name>Villejuif-Louis Aragon</name>
          <desc>Boulevard Maxime Gorky - 94076</desc>
       </station>
-      <station id="3192" x="5742" y="2228">
+      <station id="3192" x="574" y="777">
          <name>Villejuif-Paul Vaillant Couturier Hôpital Paul Brousse</name>
          <desc>Boulevard Maxime Gorky - 94076</desc>
       </station>
-      <station id="3196" x="3992" y="6077">
+      <station id="3196" x="399" y="392">
          <name>Villiers</name>
          <desc>Parc de Monceau - 75117</desc>
       </station>
-      <station id="3200" x="3700" y="4277">
+      <station id="3200" x="370" y="572">
          <name>Volontaires</name>
          <desc>25 rue des Volontaires - 75115</desc>
       </station>
-      <station id="3204" x="6143" y="5010">
+      <station id="3204" x="614" y="498">
          <name>Voltaire Léon Blum</name>
          <desc>Boulevard Voltaire - 75111</desc>
       </station>
-      <station id="3208" x="3618" y="6185">
+      <station id="3208" x="361" y="381">
          <name>Wagram</name>
          <desc>Place Monseigneur Loutil - 75117</desc>
       </station>
@@ -1216,9 +1216,9 @@
             <station>
                <id>2716</id>
                <changes>
+                  <changeline>6</changeline>
                   <changeline>1</changeline>
                   <changeline>9</changeline>
-                  <changeline>6</changeline>
                </changes>
             </station>
             <station>
@@ -1254,15 +1254,15 @@
             <station>
                <id>2484</id>
                <changes>
-                  <changeline>5</changeline>
                   <changeline>7B</changeline>
+                  <changeline>5</changeline>
                </changes>
             </station>
             <station>
                <id>3124</id>
                <changes>
-                  <changeline>5</changeline>
                   <changeline>7</changeline>
+                  <changeline>5</changeline>
                </changes>
             </station>
             <station>
@@ -1313,8 +1313,8 @@
             <station>
                <id>2196</id>
                <changes>
-                  <changeline>1</changeline>
                   <changeline>6</changeline>
+                  <changeline>1</changeline>
                </changes>
             </station>
             <station>
@@ -1342,9 +1342,9 @@
             <station>
                <id>2716</id>
                <changes>
+                  <changeline>6</changeline>
                   <changeline>2</changeline>
                   <changeline>9</changeline>
-                  <changeline>6</changeline>
                </changes>
             </station>
             <station>
@@ -1378,10 +1378,10 @@
             <station>
                <id>2224</id>
                <changes>
-                  <changeline>14</changeline>
                   <changeline>4</changeline>
-                  <changeline>11</changeline>
                   <changeline>7</changeline>
+                  <changeline>11</changeline>
+                  <changeline>14</changeline>
                </changes>
             </station>
             <station>
@@ -1421,8 +1421,8 @@
             <station>
                <id>2196</id>
                <changes>
-                  <changeline>2</changeline>
                   <changeline>6</changeline>
+                  <changeline>2</changeline>
                </changes>
             </station>
             <station>
@@ -1474,9 +1474,9 @@
             <station>
                <id>2984</id>
                <changes>
-                  <changeline>5</changeline>
-                  <changeline>9</changeline>
                   <changeline>8</changeline>
+                  <changeline>9</changeline>
+                  <changeline>5</changeline>
                   <changeline>11</changeline>
                </changes>
             </station>
@@ -1621,8 +1621,8 @@
             <station>
                <id>3128</id>
                <changes>
-                  <changeline>8</changeline>
                   <changeline>9</changeline>
+                  <changeline>8</changeline>
                </changes>
             </station>
             <station>
@@ -1640,10 +1640,10 @@
             <station>
                <id>2224</id>
                <changes>
-                  <changeline>14</changeline>
-                  <changeline>11</changeline>
                   <changeline>1</changeline>
                   <changeline>7</changeline>
+                  <changeline>11</changeline>
+                  <changeline>14</changeline>
                </changes>
             </station>
             <station>
@@ -1730,15 +1730,15 @@
             <station>
                <id>2484</id>
                <changes>
-                  <changeline>7B</changeline>
                   <changeline>2</changeline>
+                  <changeline>7B</changeline>
                </changes>
             </station>
             <station>
                <id>3124</id>
                <changes>
-                  <changeline>7</changeline>
                   <changeline>2</changeline>
+                  <changeline>7</changeline>
                </changes>
             </station>
             <station>
@@ -1750,8 +1750,8 @@
             <station>
                <id>2420</id>
                <changes>
-                  <changeline>7</changeline>
                   <changeline>4</changeline>
+                  <changeline>7</changeline>
                </changes>
             </station>
             <station>
@@ -1760,9 +1760,9 @@
             <station>
                <id>2984</id>
                <changes>
-                  <changeline>9</changeline>
                   <changeline>8</changeline>
                   <changeline>3</changeline>
+                  <changeline>9</changeline>
                   <changeline>11</changeline>
                </changes>
             </station>
@@ -1814,8 +1814,8 @@
             <station>
                <id>2716</id>
                <changes>
-                  <changeline>1</changeline>
                   <changeline>2</changeline>
+                  <changeline>1</changeline>
                   <changeline>9</changeline>
                </changes>
             </station>
@@ -1883,9 +1883,9 @@
             <station>
                <id>2708</id>
                <changes>
+                  <changeline>4</changeline>
                   <changeline>13</changeline>
                   <changeline>12</changeline>
-                  <changeline>4</changeline>
                </changes>
             </station>
             <station>
@@ -1931,8 +1931,8 @@
             <station>
                <id>2196</id>
                <changes>
-                  <changeline>1</changeline>
                   <changeline>2</changeline>
+                  <changeline>1</changeline>
                </changes>
             </station>
          </mpath>
@@ -1963,8 +1963,8 @@
             <station>
                <id>3124</id>
                <changes>
-                  <changeline>5</changeline>
                   <changeline>2</changeline>
+                  <changeline>5</changeline>
                </changes>
             </station>
             <station>
@@ -2023,10 +2023,10 @@
             <station>
                <id>2224</id>
                <changes>
-                  <changeline>14</changeline>
                   <changeline>4</changeline>
-                  <changeline>11</changeline>
                   <changeline>1</changeline>
+                  <changeline>11</changeline>
+                  <changeline>14</changeline>
                </changes>
             </station>
             <station>
@@ -2053,8 +2053,8 @@
             <station>
                <id>2800</id>
                <changes>
-                  <changeline>5</changeline>
                   <changeline>6</changeline>
+                  <changeline>5</changeline>
                </changes>
             </station>
             <station>
@@ -2132,8 +2132,8 @@
             <station>
                <id>2484</id>
                <changes>
-                  <changeline>5</changeline>
                   <changeline>2</changeline>
+                  <changeline>5</changeline>
                </changes>
             </station>
             <station>
@@ -2183,8 +2183,8 @@
             <station>
                <id>2260</id>
                <changes>
-                  <changeline>1</changeline>
                   <changeline>12</changeline>
+                  <changeline>1</changeline>
                </changes>
             </station>
             <station>
@@ -2229,9 +2229,9 @@
             <station>
                <id>2984</id>
                <changes>
-                  <changeline>5</changeline>
-                  <changeline>9</changeline>
                   <changeline>3</changeline>
+                  <changeline>9</changeline>
+                  <changeline>5</changeline>
                   <changeline>11</changeline>
                </changes>
             </station>
@@ -2421,9 +2421,9 @@
             <station>
                <id>2984</id>
                <changes>
-                  <changeline>5</changeline>
                   <changeline>8</changeline>
                   <changeline>3</changeline>
+                  <changeline>5</changeline>
                   <changeline>11</changeline>
                </changes>
             </station>
@@ -2448,9 +2448,9 @@
             <station>
                <id>2716</id>
                <changes>
-                  <changeline>1</changeline>
-                  <changeline>2</changeline>
                   <changeline>6</changeline>
+                  <changeline>2</changeline>
+                  <changeline>1</changeline>
                </changes>
             </station>
             <station>
@@ -2525,8 +2525,8 @@
             <station>
                <id>2524</id>
                <changes>
-                  <changeline>8</changeline>
                   <changeline>6</changeline>
+                  <changeline>8</changeline>
                </changes>
             </station>
             <station>
@@ -2617,10 +2617,10 @@
             <station>
                <id>2984</id>
                <changes>
-                  <changeline>5</changeline>
-                  <changeline>9</changeline>
                   <changeline>8</changeline>
                   <changeline>3</changeline>
+                  <changeline>9</changeline>
+                  <changeline>5</changeline>
                </changes>
             </station>
             <station>
@@ -2641,10 +2641,10 @@
             <station>
                <id>2224</id>
                <changes>
-                  <changeline>14</changeline>
                   <changeline>4</changeline>
                   <changeline>1</changeline>
                   <changeline>7</changeline>
+                  <changeline>14</changeline>
                </changes>
             </station>
          </mpath>
@@ -2682,8 +2682,8 @@
                <id>2708</id>
                <changes>
                   <changeline>6</changeline>
-                  <changeline>13</changeline>
                   <changeline>4</changeline>
+                  <changeline>13</changeline>
                </changes>
             </station>
             <station>
@@ -2725,8 +2725,8 @@
                <id>3064</id>
                <changes>
                   <changeline>13</changeline>
-                  <changeline>3</changeline>
                   <changeline>14</changeline>
+                  <changeline>3</changeline>
                </changes>
             </station>
             <station>
@@ -2797,8 +2797,8 @@
                <id>2708</id>
                <changes>
                   <changeline>6</changeline>
-                  <changeline>12</changeline>
                   <changeline>4</changeline>
+                  <changeline>12</changeline>
                </changes>
             </station>
             <station>
@@ -2835,8 +2835,8 @@
                <id>3064</id>
                <changes>
                   <changeline>12</changeline>
-                  <changeline>3</changeline>
                   <changeline>14</changeline>
+                  <changeline>3</changeline>
                </changes>
             </station>
             <station>
@@ -2928,9 +2928,9 @@
                <id>2224</id>
                <changes>
                   <changeline>4</changeline>
-                  <changeline>11</changeline>
                   <changeline>1</changeline>
                   <changeline>7</changeline>
+                  <changeline>11</changeline>
                </changes>
             </station>
             <station>

@@ -2,7 +2,7 @@
 
 > Projet de Formats de documents & XML de M1.
 
-Sujet disponible [ici](docs/sujet.pdf). Les lignes produites sont dans le répertoire [output/](src/output/).
+Sujet disponible [ici](docs/sujet.pdf) et le rapport [ici](docs/rapport.pdf). Les lignes produites sont dans le répertoire [output/](src/output/).
 
 ### Execution :
 - Pour générer une ligne particulière :
@@ -18,4 +18,9 @@ cd src && sh generate_all.sh
 - Pour vérifier le format :
 ```sh
 xmllint --schema base_ratp.xsd base_ratp.xml > out.txt
+```
+
+- Pour générer l'extension :
+```sh
+java -jar ./saxon-he-10.3.jar -s:base_ratp.xml -xsl:extension.xsl -o:extension.svg
 ```

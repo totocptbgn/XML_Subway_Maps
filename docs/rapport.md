@@ -10,7 +10,7 @@ Les données conservées pour le XML sont les noms des stations, leurs descripti
 
 ### Format du XML
 
-Pour la racine nous avons une balise `<root>` qui contient la balise `<data>` pour les données des stations et la balise `<lines>` pour la liste des lignes.
+Pour la racine, nous avons une balise `<root>` qui contient la balise `<data>` pour les données des stations et la balise `<lines>` pour la liste des lignes.
 
 #### Données des stations
 
@@ -25,7 +25,7 @@ La balise `data` contient la liste des stations présentées comme ceci :
 
 #### Données des lignes
 
-- La balise `<lines>` contient une liste de ligne présentée comme ceci :
+La balise `<lines>` contient une liste de ligne présentée comme ceci :
 
 ```xml
 <line  name="14"> ... </line>
@@ -74,9 +74,13 @@ cd src && sh generate_all.sh
 
 ## Extension
 
-Nous avons aussi implémenté une extension. Nous avons créé un autre fichier `map.xsl` qui génère une carte des lignes de métro parisiennes en fonction des coordonnées `x` et `y` de chaque station.
+Nous avons aussi implémenté une extension. Nous avons créé un autre fichier `extension.xsl` qui génère une carte des lignes de métro parisiennes en fonction des coordonnées `x` et `y` de chaque station. Nous avons dû d'ailleurs modifier les coordonnées de la station Corentin-Celton dans `base_ratp.csv` car la carte générée nous a fait remarquer l'erreur.
 
 Pour la générer, il faut exécuter la commande :
 ```sh
-java -jar ./src/saxon-he-10.3.jar -s:src/base_ratp.xml -xsl:src/svg.xsl -o:map.svg
+java -jar ./saxon-he-10.3.jar -s:base_ratp.xml -xsl:extension.xsl -o:extension.svg
 ```
+
+## Outputs
+
+Tous les fichiers produits sont dans le répertoire `output/`.
