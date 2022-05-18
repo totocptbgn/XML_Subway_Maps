@@ -17,7 +17,7 @@ Pour la racine, nous avons une balise `<root>` qui contient la balise `<data>` p
 La balise `data` contient la liste des stations présentées comme ceci :
 
 ```xml
-<station  id="2536"  x="4757"  y="6456">
+<station  id="2536"  x="475" y="354">
 	<name>Lamarck-Caulaincourt</name>
 	<desc>Lamarck 53/53 bis rue - 75118</desc>
 </station>
